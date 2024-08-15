@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.singlerr.semaphore.callhandler",
+    "module": "callhandler",
+    "version": "1.0.20",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "callhandler-1.0.20.jar",
+          "url": "callhandler-1.0.20.jar",
+          "size": 1401,
+          "sha512": "aab72bfdbfde981b68ed48d8e7784e90f8b2468fe1f62bd928a1d2a8b362e0dce9468b56dc31b5b809d40ae99ad90c8bea41806ca5e65c19a229d849050a35d2",
+          "sha256": "1a00d65006cd950d9363a7e596bf0342d08f70b03111f65ab65917647eed1fbb",
+          "sha1": "96aee6f913714bb97de557fb33b9cdcd2d8f3550",
+          "md5": "87d93ccc6aac042b5290cf315c1f0030"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "accessor",
+          "version": {
+            "requires": "1.0.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "callhandler-1.0.20.jar",
+          "url": "callhandler-1.0.20.jar",
+          "size": 1401,
+          "sha512": "aab72bfdbfde981b68ed48d8e7784e90f8b2468fe1f62bd928a1d2a8b362e0dce9468b56dc31b5b809d40ae99ad90c8bea41806ca5e65c19a229d849050a35d2",
+          "sha256": "1a00d65006cd950d9363a7e596bf0342d08f70b03111f65ab65917647eed1fbb",
+          "sha1": "96aee6f913714bb97de557fb33b9cdcd2d8f3550",
+          "md5": "87d93ccc6aac042b5290cf315c1f0030"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "callhandler-1.0.20-sources.jar",
+          "url": "callhandler-1.0.20-sources.jar",
+          "size": 1265,
+          "sha512": "7cd0b128e2521b4d6050e7588cfc29f3939a096b2e7edee0adc1321e64200af51fee9a85ab6fd372d6774e6dd78bab196940bb64ac06d59c7646f08cc9f328cc",
+          "sha256": "54ca5ec691bae873b9209d8e6bf0b80e087c2417124209f5af4a9a51da4b3ab2",
+          "sha1": "ca1a069b98d5088716b6d3d15e2c850ca14c4cde",
+          "md5": "fae5ebf035c8eb105c764598b9ae400e"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "callhandler-1.0.20-javadoc.jar",
+          "url": "callhandler-1.0.20-javadoc.jar",
+          "size": 19248,
+          "sha512": "7a81355fb73eb28832e28226f4929edb6eb94a4404bea04b26c021b4f1a108dbe3f7def525c3fb7a6fb46ffc4fbe19abb74ca24a725df3ae87b432b519e9dd1c",
+          "sha256": "dcf35b34b62c88e56183a69164be59247c02800494eea62ab06e55efd4155d2c",
+          "sha1": "93dbed21cadf084b0e62ee06c7406bd5099afc5b",
+          "md5": "e7748b2cea1813ee5f9ad6e53b66fd02"
+        }
+      ]
+    }
+  ]
+}
