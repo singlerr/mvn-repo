@@ -27,11 +27,11 @@
         {
           "name": "callhandler-1.0.15.jar",
           "url": "callhandler-1.0.15.jar",
-          "size": 1407,
-          "sha512": "acb114255e4604852edd7f9b27e38df9399ac341fd4a2c76a5558a57ee3a3a4c8b7a8afd84cd4da89038930c46fe31639cd07c48c13496c52cfc2afc0e0fefef",
-          "sha256": "e944a34e751000849e0883af1b919aaad416ba55116df02b395ca1b9d7975ee7",
-          "sha1": "cdc59aca59e1d1ff62692dd95275142d3303c3b6",
-          "md5": "eb6ec9a4959a4f7abaa15dcd5f83e8fe"
+          "size": 1401,
+          "sha512": "ecda6b053c1926eb38e86aa012748379651af0b78ef46cf3710f31b74edf2c4470df90061fbab6aafc5c6d1588020af4828081afc1d8551ef290a3744fa240ec",
+          "sha256": "6aa4bc6890c19733c39ed329efd71d3b9ddca2ef109a1b107c28551141305720",
+          "sha1": "5d7228962b09e03b9b7824f29645b2c129c06f44",
+          "md5": "39ed6f5ccb101e6677f7fbebf9a30774"
         }
       ]
     },
@@ -57,11 +57,11 @@
         {
           "name": "callhandler-1.0.15.jar",
           "url": "callhandler-1.0.15.jar",
-          "size": 1407,
-          "sha512": "acb114255e4604852edd7f9b27e38df9399ac341fd4a2c76a5558a57ee3a3a4c8b7a8afd84cd4da89038930c46fe31639cd07c48c13496c52cfc2afc0e0fefef",
-          "sha256": "e944a34e751000849e0883af1b919aaad416ba55116df02b395ca1b9d7975ee7",
-          "sha1": "cdc59aca59e1d1ff62692dd95275142d3303c3b6",
-          "md5": "eb6ec9a4959a4f7abaa15dcd5f83e8fe"
+          "size": 1401,
+          "sha512": "ecda6b053c1926eb38e86aa012748379651af0b78ef46cf3710f31b74edf2c4470df90061fbab6aafc5c6d1588020af4828081afc1d8551ef290a3744fa240ec",
+          "sha256": "6aa4bc6890c19733c39ed329efd71d3b9ddca2ef109a1b107c28551141305720",
+          "sha1": "5d7228962b09e03b9b7824f29645b2c129c06f44",
+          "md5": "39ed6f5ccb101e6677f7fbebf9a30774"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "callhandler-1.0.15-javadoc.jar",
           "url": "callhandler-1.0.15-javadoc.jar",
-          "size": 72978,
-          "sha512": "b72266a2f71dddb87072b8211eb39a5fe5671bb99e605bb7e6f6796fd0fe7ab5bfb583e904e91327559e55cff222f7c7d06e5db66aca0bf88e7103b91d9ab34e",
-          "sha256": "33f3db3fe90ad2f881a64091f6db215f7e07051e6673a4b1b5b40c119ceb2cfd",
-          "sha1": "b7406367f5092312a6ef0b26e1f7c3f6fd01f2e8",
-          "md5": "ae3dce9f0c61624829d6b4028e8622dd"
+          "size": 19253,
+          "sha512": "0561fa1b1ce34f779fd4f78ca05a065be042a724c5a51d08cfb530991624ee423a2d0151988ea10a3421e1eb726f9c89823cc1586447959310d475b29a1b1970",
+          "sha256": "6dcab391aa99006cbedd3569a7f4f8ebc92b5fe79ff93f512e952926affee9c5",
+          "sha1": "3de84a8e72d56925696b26494082cd5cc91c9397",
+          "md5": "a125415a4511889d46fd3fb776c01220"
         }
       ]
     }
