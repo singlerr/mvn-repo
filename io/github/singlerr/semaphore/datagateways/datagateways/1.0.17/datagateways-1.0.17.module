@@ -28,10 +28,10 @@
           "name": "datagateways-1.0.17.jar",
           "url": "datagateways-1.0.17.jar",
           "size": 261,
-          "sha512": "85561af856b5b2dc84421e0bb26ba0cfed35a8984663ab026b542996d9cb02c5a12a4e42811d68f0891dc7ae8e3de67c54e6d587c5ae790c3173c44f169b2d10",
-          "sha256": "9591491cdb79fab69d51e6bcf5822b4eb5532f2b21b946cb5a7bd37bf9b8b30c",
-          "sha1": "f8217de6ed4a88ed590074a938a9f52cb87c3a12",
-          "md5": "27156894d1008e1a74ab5e32d4714fe4"
+          "sha512": "8ce523d9e797763ad6ef3d137246c7f06ee33b46763a543cd3674a26bf37ce0d7e8f8def0123f36cf87786387f1f221ccfb5b30ba84ba343edf99cf87eca4c66",
+          "sha256": "db6261f23b2ef27883fab9312f6f80ed6d7c178a69cbc649cf254f72354b8b7c",
+          "sha1": "26b455d61904a87db65fbcdd5ee1cf622ae6fb55",
+          "md5": "1f4ff8ee1a9672e5f20e48c92ee43930"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "datagateways-1.0.17.jar",
           "url": "datagateways-1.0.17.jar",
           "size": 261,
-          "sha512": "85561af856b5b2dc84421e0bb26ba0cfed35a8984663ab026b542996d9cb02c5a12a4e42811d68f0891dc7ae8e3de67c54e6d587c5ae790c3173c44f169b2d10",
-          "sha256": "9591491cdb79fab69d51e6bcf5822b4eb5532f2b21b946cb5a7bd37bf9b8b30c",
-          "sha1": "f8217de6ed4a88ed590074a938a9f52cb87c3a12",
-          "md5": "27156894d1008e1a74ab5e32d4714fe4"
+          "sha512": "8ce523d9e797763ad6ef3d137246c7f06ee33b46763a543cd3674a26bf37ce0d7e8f8def0123f36cf87786387f1f221ccfb5b30ba84ba343edf99cf87eca4c66",
+          "sha256": "db6261f23b2ef27883fab9312f6f80ed6d7c178a69cbc649cf254f72354b8b7c",
+          "sha1": "26b455d61904a87db65fbcdd5ee1cf622ae6fb55",
+          "md5": "1f4ff8ee1a9672e5f20e48c92ee43930"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "datagateways-1.0.17-sources.jar",
           "url": "datagateways-1.0.17-sources.jar",
           "size": 261,
-          "sha512": "85561af856b5b2dc84421e0bb26ba0cfed35a8984663ab026b542996d9cb02c5a12a4e42811d68f0891dc7ae8e3de67c54e6d587c5ae790c3173c44f169b2d10",
-          "sha256": "9591491cdb79fab69d51e6bcf5822b4eb5532f2b21b946cb5a7bd37bf9b8b30c",
-          "sha1": "f8217de6ed4a88ed590074a938a9f52cb87c3a12",
-          "md5": "27156894d1008e1a74ab5e32d4714fe4"
+          "sha512": "8ce523d9e797763ad6ef3d137246c7f06ee33b46763a543cd3674a26bf37ce0d7e8f8def0123f36cf87786387f1f221ccfb5b30ba84ba343edf99cf87eca4c66",
+          "sha256": "db6261f23b2ef27883fab9312f6f80ed6d7c178a69cbc649cf254f72354b8b7c",
+          "sha1": "26b455d61904a87db65fbcdd5ee1cf622ae6fb55",
+          "md5": "1f4ff8ee1a9672e5f20e48c92ee43930"
         }
       ]
     },
@@ -89,10 +89,10 @@
           "name": "datagateways-1.0.17-javadoc.jar",
           "url": "datagateways-1.0.17-javadoc.jar",
           "size": 261,
-          "sha512": "85561af856b5b2dc84421e0bb26ba0cfed35a8984663ab026b542996d9cb02c5a12a4e42811d68f0891dc7ae8e3de67c54e6d587c5ae790c3173c44f169b2d10",
-          "sha256": "9591491cdb79fab69d51e6bcf5822b4eb5532f2b21b946cb5a7bd37bf9b8b30c",
-          "sha1": "f8217de6ed4a88ed590074a938a9f52cb87c3a12",
-          "md5": "27156894d1008e1a74ab5e32d4714fe4"
+          "sha512": "8ce523d9e797763ad6ef3d137246c7f06ee33b46763a543cd3674a26bf37ce0d7e8f8def0123f36cf87786387f1f221ccfb5b30ba84ba343edf99cf87eca4c66",
+          "sha256": "db6261f23b2ef27883fab9312f6f80ed6d7c178a69cbc649cf254f72354b8b7c",
+          "sha1": "26b455d61904a87db65fbcdd5ee1cf622ae6fb55",
+          "md5": "1f4ff8ee1a9672e5f20e48c92ee43930"
         }
       ]
     }
