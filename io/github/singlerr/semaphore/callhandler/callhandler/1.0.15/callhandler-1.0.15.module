@@ -19,7 +19,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -27,11 +27,11 @@
         {
           "name": "callhandler-1.0.15.jar",
           "url": "callhandler-1.0.15.jar",
-          "size": 1406,
-          "sha512": "54266f865edf27fe077da95797f76ebaeed98662d21724ec8ad484ab4d6c3e9f72c7901d70efa4308acaf1d54fa6fa881bf06edd9ab8a200b6e154f7a7453dc7",
-          "sha256": "dacaa8be955d4c0b0a754cf65666c4f3b953a5efc40f15c8a12c0d7f0c34fb0d",
-          "sha1": "024ee7ec42275eabe52000307c713589c8f0a208",
-          "md5": "bc53ef32aed44a4aa1f059eb77d23e1d"
+          "size": 1407,
+          "sha512": "acb114255e4604852edd7f9b27e38df9399ac341fd4a2c76a5558a57ee3a3a4c8b7a8afd84cd4da89038930c46fe31639cd07c48c13496c52cfc2afc0e0fefef",
+          "sha256": "e944a34e751000849e0883af1b919aaad416ba55116df02b395ca1b9d7975ee7",
+          "sha1": "cdc59aca59e1d1ff62692dd95275142d3303c3b6",
+          "md5": "eb6ec9a4959a4f7abaa15dcd5f83e8fe"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -57,11 +57,11 @@
         {
           "name": "callhandler-1.0.15.jar",
           "url": "callhandler-1.0.15.jar",
-          "size": 1406,
-          "sha512": "54266f865edf27fe077da95797f76ebaeed98662d21724ec8ad484ab4d6c3e9f72c7901d70efa4308acaf1d54fa6fa881bf06edd9ab8a200b6e154f7a7453dc7",
-          "sha256": "dacaa8be955d4c0b0a754cf65666c4f3b953a5efc40f15c8a12c0d7f0c34fb0d",
-          "sha1": "024ee7ec42275eabe52000307c713589c8f0a208",
-          "md5": "bc53ef32aed44a4aa1f059eb77d23e1d"
+          "size": 1407,
+          "sha512": "acb114255e4604852edd7f9b27e38df9399ac341fd4a2c76a5558a57ee3a3a4c8b7a8afd84cd4da89038930c46fe31639cd07c48c13496c52cfc2afc0e0fefef",
+          "sha256": "e944a34e751000849e0883af1b919aaad416ba55116df02b395ca1b9d7975ee7",
+          "sha1": "cdc59aca59e1d1ff62692dd95275142d3303c3b6",
+          "md5": "eb6ec9a4959a4f7abaa15dcd5f83e8fe"
         }
       ]
     },

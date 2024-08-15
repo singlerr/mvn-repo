@@ -19,7 +19,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -27,11 +27,11 @@
         {
           "name": "admin-1.0.15.jar",
           "url": "admin-1.0.15.jar",
-          "size": 2123,
-          "sha512": "ae145ba1c4e7951adad5978f84c3bd29f374a20bab6f072764ce027987cab8d621ab434e01f99a98fdc51d5a8af377deb12cb356f684c2d645930ad234ca8b32",
-          "sha256": "d5b37cf3a445f2f7084f7d8ad35693bbf47f6b21e48532ea54cbec70244b20c5",
-          "sha1": "ca556db3cb937708a4c56b0352726798b7899f10",
-          "md5": "5a6bbfb676bcf6abc5804530cbc8aa1b"
+          "size": 2122,
+          "sha512": "561eed60d935293f2343d9667fc75e434d36a20c946ab934275b06facb2a2d5f2bde2e5f484899ec0db2361cd8272dc0b1d594b584756abfde8d73cb822930ac",
+          "sha256": "cdf781f2b30c2e7949e090e6ede3ce434cf03e74b60e33cce917288c1ada6f91",
+          "sha1": "76388b5d23807e189c6f644e501f6ebce7740ecd",
+          "md5": "357a07bdd47c6e12300db4f78900c850"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -57,11 +57,11 @@
         {
           "name": "admin-1.0.15.jar",
           "url": "admin-1.0.15.jar",
-          "size": 2123,
-          "sha512": "ae145ba1c4e7951adad5978f84c3bd29f374a20bab6f072764ce027987cab8d621ab434e01f99a98fdc51d5a8af377deb12cb356f684c2d645930ad234ca8b32",
-          "sha256": "d5b37cf3a445f2f7084f7d8ad35693bbf47f6b21e48532ea54cbec70244b20c5",
-          "sha1": "ca556db3cb937708a4c56b0352726798b7899f10",
-          "md5": "5a6bbfb676bcf6abc5804530cbc8aa1b"
+          "size": 2122,
+          "sha512": "561eed60d935293f2343d9667fc75e434d36a20c946ab934275b06facb2a2d5f2bde2e5f484899ec0db2361cd8272dc0b1d594b584756abfde8d73cb822930ac",
+          "sha256": "cdf781f2b30c2e7949e090e6ede3ce434cf03e74b60e33cce917288c1ada6f91",
+          "sha1": "76388b5d23807e189c6f644e501f6ebce7740ecd",
+          "md5": "357a07bdd47c6e12300db4f78900c850"
         }
       ]
     },

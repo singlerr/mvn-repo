@@ -19,7 +19,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -28,10 +28,10 @@
           "name": "admin-1.0.15.jar",
           "url": "admin-1.0.15.jar",
           "size": 5183,
-          "sha512": "9b2e7be2e18eeed264670d6a29cccf56546fd873d68437fe489f10186501dbb10014602339ee0442fc718f780827ed717c6a6111fcd2742ff2770e63ad867778",
-          "sha256": "44a6a28a844e0d7ae3748442ff65d11dc992c8c37c46d0470d48eef5b706d00e",
-          "sha1": "3949d54d54c5492b3747daac985f092baabb62c5",
-          "md5": "b18fb1cfd6cb93db4c339a85154fbb97"
+          "sha512": "d2f81bbee7c13fcd604f11b3a9c24c81f215a5fafa7f6e68ea4942031cb649e5ca62e8407416659ceaa2be836cd3b9307d8fbe1a2b25ced0e5c9bb79bacbed81",
+          "sha256": "4ca2dfc0ff9f6fde2e673d1c16be8c15a297609b8b67b27ed443b5fd577d7cfe",
+          "sha1": "0786b474918bc9529c27e63d8047deff0053684c",
+          "md5": "05f7f260677c175c5c17c7f29b85f638"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -65,10 +65,10 @@
           "name": "admin-1.0.15.jar",
           "url": "admin-1.0.15.jar",
           "size": 5183,
-          "sha512": "9b2e7be2e18eeed264670d6a29cccf56546fd873d68437fe489f10186501dbb10014602339ee0442fc718f780827ed717c6a6111fcd2742ff2770e63ad867778",
-          "sha256": "44a6a28a844e0d7ae3748442ff65d11dc992c8c37c46d0470d48eef5b706d00e",
-          "sha1": "3949d54d54c5492b3747daac985f092baabb62c5",
-          "md5": "b18fb1cfd6cb93db4c339a85154fbb97"
+          "sha512": "d2f81bbee7c13fcd604f11b3a9c24c81f215a5fafa7f6e68ea4942031cb649e5ca62e8407416659ceaa2be836cd3b9307d8fbe1a2b25ced0e5c9bb79bacbed81",
+          "sha256": "4ca2dfc0ff9f6fde2e673d1c16be8c15a297609b8b67b27ed443b5fd577d7cfe",
+          "sha1": "0786b474918bc9529c27e63d8047deff0053684c",
+          "md5": "05f7f260677c175c5c17c7f29b85f638"
         }
       ]
     },

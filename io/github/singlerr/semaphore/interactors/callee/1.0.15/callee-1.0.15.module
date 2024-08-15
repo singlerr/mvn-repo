@@ -19,7 +19,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -27,11 +27,11 @@
         {
           "name": "callee-1.0.15.jar",
           "url": "callee-1.0.15.jar",
-          "size": 11115,
-          "sha512": "cda743aefacd7f2cfaf459eef745684d6a6ee007b36ffb1f35d73d99b682451431d5b2c0a8a75e8c02d662a66426e83fa883fedea66db0f144b73d1acf39b679",
-          "sha256": "be23c9af19db9c5ed5d5ce2be2ee29bce9da66dc2c62fff55a2d8dddcc2c08c8",
-          "sha1": "6ea6610daec1a4f1384f359f748bf68c2c3ad396",
-          "md5": "d3f354aca05b3f607ce63effa105e8da"
+          "size": 11488,
+          "sha512": "d9fdb452ac984419ae361386e27e63671b0090625cd6ec5c80147eae1fd24b100b8bfdf754c9db90a8034e2168c4c66369f991d124a41fff78368795ca586ce0",
+          "sha256": "54698f7276752cd3035b6f871b1c79dbde68dbef9f21f69f5d63d13d712a65d1",
+          "sha1": "592fd322998c434030efd782af79c9c3f50cc028",
+          "md5": "6ae0a65842a40a5be9766c840dfb2b6b"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -57,11 +57,11 @@
         {
           "name": "callee-1.0.15.jar",
           "url": "callee-1.0.15.jar",
-          "size": 11115,
-          "sha512": "cda743aefacd7f2cfaf459eef745684d6a6ee007b36ffb1f35d73d99b682451431d5b2c0a8a75e8c02d662a66426e83fa883fedea66db0f144b73d1acf39b679",
-          "sha256": "be23c9af19db9c5ed5d5ce2be2ee29bce9da66dc2c62fff55a2d8dddcc2c08c8",
-          "sha1": "6ea6610daec1a4f1384f359f748bf68c2c3ad396",
-          "md5": "d3f354aca05b3f607ce63effa105e8da"
+          "size": 11488,
+          "sha512": "d9fdb452ac984419ae361386e27e63671b0090625cd6ec5c80147eae1fd24b100b8bfdf754c9db90a8034e2168c4c66369f991d124a41fff78368795ca586ce0",
+          "sha256": "54698f7276752cd3035b6f871b1c79dbde68dbef9f21f69f5d63d13d712a65d1",
+          "sha1": "592fd322998c434030efd782af79c9c3f50cc028",
+          "md5": "6ae0a65842a40a5be9766c840dfb2b6b"
         }
       ]
     },
@@ -77,11 +77,11 @@
         {
           "name": "callee-1.0.15-sources.jar",
           "url": "callee-1.0.15-sources.jar",
-          "size": 7108,
-          "sha512": "5558c671cfbcbd7ab811a1d42fd7ad032aba9ad5a9c4c4853ee24931443bb832ec91c2bf280b2e5bee55601e66ae4c0eeb75aab2d22099492531798e84bce65f",
-          "sha256": "626f393ce16f3ee553dcf6c13ae4770b7d48cd0ab8d876fb8e20db6e7d8b1b96",
-          "sha1": "2ce0f0bcd69f89f8db61de65e9e9784ac67ad9fe",
-          "md5": "ba8a4f0496c5b61edd44e45141b0dff4"
+          "size": 7961,
+          "sha512": "3f67596d9be53385fc86ba2d942b68561a3cb56150edb954c60ffc83b0c69462b6c279d37adf9e0621ed1f739ef5d535847dbe33d58a5bbd2a88b3736a6d4cde",
+          "sha256": "ea6b3287b7337d41f7d6946e6ffae243f3ac4abbb39123feba1d097e6261ae3a",
+          "sha1": "d521536793b31d3c0525a8d5edb85d30538577b8",
+          "md5": "010bb2718d0bc15278f9a878e325aa2f"
         }
       ]
     },
@@ -97,11 +97,11 @@
         {
           "name": "callee-1.0.15-javadoc.jar",
           "url": "callee-1.0.15-javadoc.jar",
-          "size": 132612,
-          "sha512": "edfe72982b58a32b9e72022840e4f5dd80a8a2b99645bcd671515a5bf6845c9f06e83833a4630e3aa5a1d5c61a6f449995bb268528b8537725fcd7855dfaa4dd",
-          "sha256": "760721a1a90de708ecbd71f184c999d1b9a02b635e42688ce278a14bb800bea9",
-          "sha1": "18a6295549700842d7bf20d4c6a24ef756ab4883",
-          "md5": "20ab04d91ec9a724a7f8d06942f5b476"
+          "size": 130827,
+          "sha512": "e56214760bfd3f77d688feabfcedc3d90990791bd65c491cabab157b66a069ad7881b69d15ff77596e48c6160528c0ac198c98c86aaac8eeb308154e52b805db",
+          "sha256": "92493985e3d4cdec222a90b64d32d58b6dcfb23966c6406e10a211ac224ee8a6",
+          "sha1": "d6f91a85be57ae31588f501119edf5ed679e3249",
+          "md5": "c4cbaea518c7218cfa9fba0f7e94ed40"
         }
       ]
     }
