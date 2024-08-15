@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.singlerr.semaphore.datagateways",
+    "module": "datagateways",
+    "version": "1.0.19",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "datagateways-1.0.19.jar",
+          "url": "datagateways-1.0.19.jar",
+          "size": 261,
+          "sha512": "49bff8cb2e4d9dda1f5e6160f93b229eb504a184c022a12ffd884705f21d865cd752456838d4237be4e5751d3ac9ca515287cf31df82e6091da33274df90effd",
+          "sha256": "ff032e1b59bc82f16e3a5ada857780eb10167c1ba9f3d109d4c76a351ebee520",
+          "sha1": "4002b92a6817e812634dc943fa670232e1ad97a7",
+          "md5": "5c7e6a182549ba7f73061f576273cb98"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "datagateways-1.0.19.jar",
+          "url": "datagateways-1.0.19.jar",
+          "size": 261,
+          "sha512": "49bff8cb2e4d9dda1f5e6160f93b229eb504a184c022a12ffd884705f21d865cd752456838d4237be4e5751d3ac9ca515287cf31df82e6091da33274df90effd",
+          "sha256": "ff032e1b59bc82f16e3a5ada857780eb10167c1ba9f3d109d4c76a351ebee520",
+          "sha1": "4002b92a6817e812634dc943fa670232e1ad97a7",
+          "md5": "5c7e6a182549ba7f73061f576273cb98"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "datagateways-1.0.19-sources.jar",
+          "url": "datagateways-1.0.19-sources.jar",
+          "size": 261,
+          "sha512": "49bff8cb2e4d9dda1f5e6160f93b229eb504a184c022a12ffd884705f21d865cd752456838d4237be4e5751d3ac9ca515287cf31df82e6091da33274df90effd",
+          "sha256": "ff032e1b59bc82f16e3a5ada857780eb10167c1ba9f3d109d4c76a351ebee520",
+          "sha1": "4002b92a6817e812634dc943fa670232e1ad97a7",
+          "md5": "5c7e6a182549ba7f73061f576273cb98"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "datagateways-1.0.19-javadoc.jar",
+          "url": "datagateways-1.0.19-javadoc.jar",
+          "size": 261,
+          "sha512": "49bff8cb2e4d9dda1f5e6160f93b229eb504a184c022a12ffd884705f21d865cd752456838d4237be4e5751d3ac9ca515287cf31df82e6091da33274df90effd",
+          "sha256": "ff032e1b59bc82f16e3a5ada857780eb10167c1ba9f3d109d4c76a351ebee520",
+          "sha1": "4002b92a6817e812634dc943fa670232e1ad97a7",
+          "md5": "5c7e6a182549ba7f73061f576273cb98"
+        }
+      ]
+    }
+  ]
+}
