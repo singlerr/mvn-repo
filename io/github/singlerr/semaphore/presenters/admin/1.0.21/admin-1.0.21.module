@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.singlerr.semaphore.presenters",
+    "module": "admin",
+    "version": "1.0.21",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "admin-1.0.21.jar",
+          "url": "admin-1.0.21.jar",
+          "size": 2112,
+          "sha512": "de5c24d6f68270c7665bc336a28a0eaf1a96aac0da00b178d72467d87b1064be1f44b5cff59253ffa3fa9a65b356afcd0810c9a80838eb91067b2237bdbe8e55",
+          "sha256": "6d707775ba22aa94fadbc1cc26d5d556a3eb74c55679d91bdb8a3ce51bfc221f",
+          "sha1": "64a33efa78233c819e2d41624f36e1327cfe4abd",
+          "md5": "c15ae5341325ce7db9e6566509c5ba91"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "admin",
+          "version": {
+            "requires": "1.0.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "admin-1.0.21.jar",
+          "url": "admin-1.0.21.jar",
+          "size": 2112,
+          "sha512": "de5c24d6f68270c7665bc336a28a0eaf1a96aac0da00b178d72467d87b1064be1f44b5cff59253ffa3fa9a65b356afcd0810c9a80838eb91067b2237bdbe8e55",
+          "sha256": "6d707775ba22aa94fadbc1cc26d5d556a3eb74c55679d91bdb8a3ce51bfc221f",
+          "sha1": "64a33efa78233c819e2d41624f36e1327cfe4abd",
+          "md5": "c15ae5341325ce7db9e6566509c5ba91"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "admin-1.0.21-sources.jar",
+          "url": "admin-1.0.21-sources.jar",
+          "size": 1717,
+          "sha512": "1efb60121831d7109566671ca1429e07fc7c19206f6262e13ea8fade2e8d4162ba774bcc4820211f601129e416b5449599635cd23ecd7c31394fbc79e6ca6a89",
+          "sha256": "4522296f557e89b7d788352aa40f1a2cc1149c3d89c2bd851758b106be10aa0e",
+          "sha1": "7ae51c963863f72a3f72944b19eea52ea03887a3",
+          "md5": "6faccb17c8ec02b7224c8473c2821c6c"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "admin-1.0.21-javadoc.jar",
+          "url": "admin-1.0.21-javadoc.jar",
+          "size": 19902,
+          "sha512": "4a7c651b4b3e97085a0f975dc7684bb793610862d638450b330caab5ebe60449c8053ff57062e4c5cbee562ba7b3e6e9358ff3857fe6dca25fcf7b6c7a2e7aa9",
+          "sha256": "1563c647d2311b6434e14b64783d65f656eb3c8d66da0a6194a3e1276fae4940",
+          "sha1": "d32f5533b0de4a97913ac17a42469e1dca42d336",
+          "md5": "31fbdd865e449d9a3058fb69549adc96"
+        }
+      ]
+    }
+  ]
+}
