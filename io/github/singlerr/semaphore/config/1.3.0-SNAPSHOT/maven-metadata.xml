@@ -3,38 +3,38 @@
   <groupId>io.github.singlerr.semaphore</groupId>
   <artifactId>config</artifactId>
   <versioning>
-    <lastUpdated>20240903233435</lastUpdated>
+    <lastUpdated>20240903233614</lastUpdated>
     <snapshot>
-      <timestamp>20240903.233435</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20240903.233614</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>1.3.0-20240903.233435-2</value>
-        <updated>20240903233435</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <extension>pom</extension>
-        <value>1.3.0-20240903.233435-2</value>
-        <updated>20240903233435</updated>
+        <value>1.3.0-20240903.233614-3</value>
+        <updated>20240903233614</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.3.0-20240903.233435-2</value>
-        <updated>20240903233435</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.3.0-20240903.233435-2</value>
-        <updated>20240903233435</updated>
+        <value>1.3.0-20240903.233614-3</value>
+        <updated>20240903233614</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.3.0-20240903.233435-2</value>
-        <updated>20240903233435</updated>
+        <value>1.3.0-20240903.233614-3</value>
+        <updated>20240903233614</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.3.0-20240903.233614-3</value>
+        <updated>20240903233614</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.3.0-20240903.233614-3</value>
+        <updated>20240903233614</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
