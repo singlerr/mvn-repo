@@ -3,10 +3,11 @@
   <groupId>io.github.singlerr.semaphore</groupId>
   <artifactId>policy-impl</artifactId>
   <versioning>
-    <latest>1.3.0-SNAPSHOT</latest>
+    <latest>1.3.1-SNAPSHOT</latest>
     <versions>
       <version>1.3.0-SNAPSHOT</version>
+      <version>1.3.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20240903233915</lastUpdated>
+    <lastUpdated>20240904071820</lastUpdated>
   </versioning>
 </metadata>
