@@ -1,0 +1,144 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.singlerr.semaphore",
+    "module": "config",
+    "version": "1.3.2-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "config-1.3.2-SNAPSHOT.jar",
+          "url": "config-1.3.2-SNAPSHOT.jar",
+          "size": 8215,
+          "sha512": "30f238b7265382ea997c827cc32bbbba32e8594f88a6ac179347c7642e57b56142e56517a94d7b739d616ead2be39a458b61589e4c864fc8465cca5977c9d10e",
+          "sha256": "a7ebfa864e16844f958c9f6d31d96e92b489bca084e8f0e0f31f7bfe3d264266",
+          "sha1": "5acde469335235be4687af5bfdff2b3dbbd3a90c",
+          "md5": "f41e6f860b36ba3a13c464d0cdac834f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.github.singlerr.semaphore.callhandler",
+          "module": "callhandler",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.datagateways",
+          "module": "datagateways",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "accessor",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "admin",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "callee",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "caller",
+          "version": {
+            "requires": "1.0.33"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "config-1.3.2-SNAPSHOT.jar",
+          "url": "config-1.3.2-SNAPSHOT.jar",
+          "size": 8215,
+          "sha512": "30f238b7265382ea997c827cc32bbbba32e8594f88a6ac179347c7642e57b56142e56517a94d7b739d616ead2be39a458b61589e4c864fc8465cca5977c9d10e",
+          "sha256": "a7ebfa864e16844f958c9f6d31d96e92b489bca084e8f0e0f31f7bfe3d264266",
+          "sha1": "5acde469335235be4687af5bfdff2b3dbbd3a90c",
+          "md5": "f41e6f860b36ba3a13c464d0cdac834f"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "config-1.3.2-SNAPSHOT-sources.jar",
+          "url": "config-1.3.2-SNAPSHOT-sources.jar",
+          "size": 4221,
+          "sha512": "e12a0d66234b9629e54b727e8439adcf5b34f95756140a2d1f7671c6ce9275b87aa9a4c2936426ccd1c5aab4b5946c4907c5adb67332a586902f81a23464c70c",
+          "sha256": "67d66e28be9f068f903f57caf7ba90541d5392dd67b5579057c73cd7249cb891",
+          "sha1": "fc5f222d110002aa28d72fdc8d58aa50dbc15c09",
+          "md5": "0a9fe3401d6f5900eaf0a022038e43e9"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "config-1.3.2-SNAPSHOT-javadoc.jar",
+          "url": "config-1.3.2-SNAPSHOT-javadoc.jar",
+          "size": 45716,
+          "sha512": "979be39432696d3e90f2c4fedf55b6c70b6e673bcbf377a062514381744d0ad449ac61e49c2ebcaacf24a6b9ca1e06c9bbc1a6490ad757041ff26cefded26181",
+          "sha256": "60f01c7f2e41f8a8f9dd7af815f0856b7ebbd145a170f07f5fdb1b10ad565d3f",
+          "sha1": "ef22256bc59f765056a45a21f1d7d446270d6609",
+          "md5": "906a2f4c42b8d4395f62eb4124f6b5b6"
+        }
+      ]
+    }
+  ]
+}
