@@ -1,0 +1,144 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.singlerr.semaphore",
+    "module": "screen-adapter",
+    "version": "1.3.1-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "screen-adapter-1.3.1-SNAPSHOT.jar",
+          "url": "screen-adapter-1.3.1-SNAPSHOT.jar",
+          "size": 4227,
+          "sha512": "f9e3a50c794817b157581563993d7ce80c619912bf38bc25d83d18e540d738e2b83f7fb043a397ec9a8aac3b11f99f0b127145280a60a3633cec1148a49b343f",
+          "sha256": "5bbcae8c288332d395b4b1cde13aa41ec141890eee3b137d880c96038a5ca08d",
+          "sha1": "4ab781a5cf01f53ea5afbc87a81516c36fa5c7b4",
+          "md5": "e36c0f3100d3bffe0dcb7d7598d7f962"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.github.singlerr.semaphore.callhandler",
+          "module": "callhandler",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.datagateways",
+          "module": "datagateways",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "accessor",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "admin",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "callee",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "caller",
+          "version": {
+            "requires": "1.0.33"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "screen-adapter-1.3.1-SNAPSHOT.jar",
+          "url": "screen-adapter-1.3.1-SNAPSHOT.jar",
+          "size": 4227,
+          "sha512": "f9e3a50c794817b157581563993d7ce80c619912bf38bc25d83d18e540d738e2b83f7fb043a397ec9a8aac3b11f99f0b127145280a60a3633cec1148a49b343f",
+          "sha256": "5bbcae8c288332d395b4b1cde13aa41ec141890eee3b137d880c96038a5ca08d",
+          "sha1": "4ab781a5cf01f53ea5afbc87a81516c36fa5c7b4",
+          "md5": "e36c0f3100d3bffe0dcb7d7598d7f962"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "screen-adapter-1.3.1-SNAPSHOT-sources.jar",
+          "url": "screen-adapter-1.3.1-SNAPSHOT-sources.jar",
+          "size": 2606,
+          "sha512": "0025cf4aa8e41e3602aea539df401cd1a95c5ea18751485754b4b828b72eac80ed04555b5f920816670f57cfb2bdf4e3c791403b5d4491517347b1a60b839d1d",
+          "sha256": "aa16d5ef05b97df8956ed88e86dd76d61275c8a0615aa12dc02fe458bc29eff9",
+          "sha1": "0d7f029c5a19b9e31c57f993054fe4d24dfa04b5",
+          "md5": "2b8f87b6eef4d216d795f359a772561f"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "screen-adapter-1.3.1-SNAPSHOT-javadoc.jar",
+          "url": "screen-adapter-1.3.1-SNAPSHOT-javadoc.jar",
+          "size": 27904,
+          "sha512": "5bfa2ba136ffc924d0d4278848b9986910fd620bcb06337250fb10fb8a7401ef3b50338ce4dbdbd9823d556571aabb644fefefef8442b16cbca84b9b97662b53",
+          "sha256": "9556f23b4f18a5bf42c32cd6559e1bc234cc55f311d70dbccca8b3ade6589288",
+          "sha1": "45873563e068e640f71d0f79dbd8dae0e4228445",
+          "md5": "e5b205705378393ec7ea8eac3de90edd"
+        }
+      ]
+    }
+  ]
+}
