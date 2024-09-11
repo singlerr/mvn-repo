@@ -28,10 +28,10 @@
           "name": "callee-1.0.36.jar",
           "url": "callee-1.0.36.jar",
           "size": 12735,
-          "sha512": "7d9076c519d6c22fa39404bfb19d687bd6bb9e3cf5f178afdd52180e8dfdbe8d402b95850b3ed84c016f763fc64d674ca826cebc5550a4ed32b14c9f357c334c",
-          "sha256": "5c0d57580f61b44793edb0c28a7605f8f279b2a0aa28c781f74dc67e63394eae",
-          "sha1": "f3c9b539d7e75c91b03cff80a48742773a92fe0c",
-          "md5": "a0b1e77c7986ed9368e9f572f0973081"
+          "sha512": "7bb68ec5bf94a487274c760591d341e596762f792703c2cc8a090f89ae7e2de0da038a6d09be4023ae8b6816eddc417a5f08283fcd4ce6c0d1ffa50d9d2dd22a",
+          "sha256": "5ae2223bb40b62f8761d74a00184a4a7b315e03994916b2e01029b3f247bdf06",
+          "sha1": "5a13c89ef85edb803a765b53db7c06dd25a44c18",
+          "md5": "4629aceddbfa7830c4e0af269c2a79b6"
         }
       ]
     },
@@ -58,10 +58,10 @@
           "name": "callee-1.0.36.jar",
           "url": "callee-1.0.36.jar",
           "size": 12735,
-          "sha512": "7d9076c519d6c22fa39404bfb19d687bd6bb9e3cf5f178afdd52180e8dfdbe8d402b95850b3ed84c016f763fc64d674ca826cebc5550a4ed32b14c9f357c334c",
-          "sha256": "5c0d57580f61b44793edb0c28a7605f8f279b2a0aa28c781f74dc67e63394eae",
-          "sha1": "f3c9b539d7e75c91b03cff80a48742773a92fe0c",
-          "md5": "a0b1e77c7986ed9368e9f572f0973081"
+          "sha512": "7bb68ec5bf94a487274c760591d341e596762f792703c2cc8a090f89ae7e2de0da038a6d09be4023ae8b6816eddc417a5f08283fcd4ce6c0d1ffa50d9d2dd22a",
+          "sha256": "5ae2223bb40b62f8761d74a00184a4a7b315e03994916b2e01029b3f247bdf06",
+          "sha1": "5a13c89ef85edb803a765b53db7c06dd25a44c18",
+          "md5": "4629aceddbfa7830c4e0af269c2a79b6"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "callee-1.0.36-sources.jar",
           "url": "callee-1.0.36-sources.jar",
           "size": 7827,
-          "sha512": "301210fbb5e3b32f65f6b654cdf9a88a213a8a493842d77dfbfc19eacf42ad37fdbc92ee3f31481ff241ecfd0b27f0c29ca56354833031a67c9a75c163768345",
-          "sha256": "e6d73915075b36b38a7d6a9cd7f85c872dfd5b42c2a08d60a652bd115b6558c6",
-          "sha1": "7641f4f44aae1189de24ca68c64fdfabaf9efc4a",
-          "md5": "3001e394cec0dcb28394e2c991b1023a"
+          "sha512": "8880d3695b32cdf084d1800cb1a9e945c81264b2f6c05770f740daab6a35e21030b5a81439640230299a9f881226ce0615e92b4d6762c667317016d7fbaa9e95",
+          "sha256": "75041244ee857a9dd29e38f239f504595543c9830323e4e2e2bf85daf5b5668c",
+          "sha1": "1e761f69917ce04a2f394928cea9707001a33d76",
+          "md5": "c9df1eeacc4a9e396e007e583f9b3e99"
         }
       ]
     },
@@ -98,10 +98,10 @@
           "name": "callee-1.0.36-javadoc.jar",
           "url": "callee-1.0.36-javadoc.jar",
           "size": 84836,
-          "sha512": "1959e91086a26976b9229fc294402e2c2a3b2dfe08f559eb8dce268cef26cb66ff7bcdeeb2b250e29bfc4fa50e2862cea5ea497439e3a189cc44070db6577434",
-          "sha256": "ed12387bc09acfedfc1a30a4644fb19715ca44203e8491c58ef2dcc4077d6b06",
-          "sha1": "3753a33bf54a7a1171f1ecd46ffc93fc7b6e067e",
-          "md5": "a71403ffc678be6f77a39d719f968c66"
+          "sha512": "f58201c78c61f7187d4f2fc01d5bde463da9898c36fb1b519c63ea1642d8044bb1060bccaecdc09c963aecbc353f1f7aebcd366b8cb98117a641816dc3cbbcd5",
+          "sha256": "337ff84135f9a641f90d7dcd754c2c7342f5301d6fd821e21cb8cb13dd2743d1",
+          "sha1": "57e54845067257c77fac133224539daba9f4402e",
+          "md5": "6e1bc3289bcd6c1e47238d4494c9ad87"
         }
       ]
     }

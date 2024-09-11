@@ -28,10 +28,10 @@
           "name": "callhandler-1.0.36.jar",
           "url": "callhandler-1.0.36.jar",
           "size": 1401,
-          "sha512": "d960fb3aeeb2d2294f18d87b518c6e79d9ad37eface729985c4070d54c27b6e590c1c4c0f476bbaa70275ceeb8805774db185fc33bba1c14cd3ede9c47448ebf",
-          "sha256": "241fbdcea5f4e7c5c524c05b4c51696475b2ca72ed23ab23e48edd7fe407641a",
-          "sha1": "8995da0802e21771104c93f3289c1048ebd0c918",
-          "md5": "4243241bf64dad0e42ebc14e53b452c3"
+          "sha512": "b62925d0ed03b577e3a98a6c2c840cce0d8c9c0f33b061d1c5398ac4d7d410cbbf3bd587369ba4618b8a17bab57cf011f13ab405c947369e2606704a489f3ae5",
+          "sha256": "60309d42c5b522bc796bbbb52c69551ab66fea73d5780e4495b2fc3de3784d5f",
+          "sha1": "14a4863fc90f4922599e4cddce8dcc79b64819ec",
+          "md5": "47db76d4a85a670d3efbebe9ead5d9cc"
         }
       ]
     },
@@ -58,10 +58,10 @@
           "name": "callhandler-1.0.36.jar",
           "url": "callhandler-1.0.36.jar",
           "size": 1401,
-          "sha512": "d960fb3aeeb2d2294f18d87b518c6e79d9ad37eface729985c4070d54c27b6e590c1c4c0f476bbaa70275ceeb8805774db185fc33bba1c14cd3ede9c47448ebf",
-          "sha256": "241fbdcea5f4e7c5c524c05b4c51696475b2ca72ed23ab23e48edd7fe407641a",
-          "sha1": "8995da0802e21771104c93f3289c1048ebd0c918",
-          "md5": "4243241bf64dad0e42ebc14e53b452c3"
+          "sha512": "b62925d0ed03b577e3a98a6c2c840cce0d8c9c0f33b061d1c5398ac4d7d410cbbf3bd587369ba4618b8a17bab57cf011f13ab405c947369e2606704a489f3ae5",
+          "sha256": "60309d42c5b522bc796bbbb52c69551ab66fea73d5780e4495b2fc3de3784d5f",
+          "sha1": "14a4863fc90f4922599e4cddce8dcc79b64819ec",
+          "md5": "47db76d4a85a670d3efbebe9ead5d9cc"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "callhandler-1.0.36-sources.jar",
           "url": "callhandler-1.0.36-sources.jar",
           "size": 1264,
-          "sha512": "f46805f3032f2e27b41031d75231f3b3b0eeb0f183175e83f5a7510b19bda58a6bb4c67647a9e11addd59ffc4a832af7394078eac0cdb5405b8dbf0d11a74eaf",
-          "sha256": "212d19b9d0a81e22a1057860365d3a4e727ecb701775e1fbbef62c163d26ff84",
-          "sha1": "a76e5588c389b1376e54d081cd3e93e041c2049b",
-          "md5": "8003328cc6ca9e0060287d9608d8613a"
+          "sha512": "4ff54b674de93b10705a422c210132e8cc0ee45da9ae948ddbb5e9c95dea62afbc20b076f434714a7da11ff65a14e994dbb1d5741288b1aa66f1252adb0893b6",
+          "sha256": "c2697094c7533f24d31291a50b9da7b0f3a2330e0df147e04bfb8a60f18cd45f",
+          "sha1": "c327a8b1e4d051ac6b5881fdb9d19754642ac816",
+          "md5": "98376822f3acf1a4db7a24159316481b"
         }
       ]
     },
@@ -98,10 +98,10 @@
           "name": "callhandler-1.0.36-javadoc.jar",
           "url": "callhandler-1.0.36-javadoc.jar",
           "size": 19260,
-          "sha512": "9824ecc512c748f66ae1d9fa3db964ad665dbd21cc183d8d69f8c419d8e67c4722f36046c3862faa2d43097933101b0eae334066931dd6781a2c30344a20b8d5",
-          "sha256": "797d8561670bdbfff87ba44d508fd6a4051a69e416162a4427b5f9bc5fb39b38",
-          "sha1": "e5729cb548e71408fd21b53dfba33a0c8601a214",
-          "md5": "4a6bbdbdae4e396e5e96ba1a14137303"
+          "sha512": "689f5dd4a363b5f67669c7c09a979ea5201ec4fbc563a630c70134e17fda81cf5bcf458ae0bcb079447ed41c531a5a73977d6ef5bb88ac0ca17325a83e1e50e3",
+          "sha256": "2cd33e81fb4dd11f2e023ad9552f3284fc1d7bd622da1d8971da12bf2853a060",
+          "sha1": "dab395b8a87f42416dc7fab05e3bbc66e18376eb",
+          "md5": "0874c0c3f93151dff860cda55223dfee"
         }
       ]
     }
