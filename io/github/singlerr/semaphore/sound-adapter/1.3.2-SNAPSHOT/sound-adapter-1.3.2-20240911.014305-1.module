@@ -1,0 +1,144 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.singlerr.semaphore",
+    "module": "sound-adapter",
+    "version": "1.3.2-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "sound-adapter-1.3.2-SNAPSHOT.jar",
+          "url": "sound-adapter-1.3.2-SNAPSHOT.jar",
+          "size": 1720,
+          "sha512": "e47a95be01a84dad2153170e693070cc4ea6a527af30a1e9a70a109f1c67d6cd1beed1541ff2e8a0e461fb8dc0643db5846f87c01383c01137acc8fd3326e82f",
+          "sha256": "184796c16407b114b10ef9010b8bb2173e7b9365c133368e2261e9dae27d68bf",
+          "sha1": "79a6e5ec88f0b4c083d92a80451d332252920ee0",
+          "md5": "fec3234763710d42d697eacf32cf5ffb"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.github.singlerr.semaphore.callhandler",
+          "module": "callhandler",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.datagateways",
+          "module": "datagateways",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "accessor",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "admin",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "callee",
+          "version": {
+            "requires": "1.0.33"
+          }
+        },
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "caller",
+          "version": {
+            "requires": "1.0.33"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sound-adapter-1.3.2-SNAPSHOT.jar",
+          "url": "sound-adapter-1.3.2-SNAPSHOT.jar",
+          "size": 1720,
+          "sha512": "e47a95be01a84dad2153170e693070cc4ea6a527af30a1e9a70a109f1c67d6cd1beed1541ff2e8a0e461fb8dc0643db5846f87c01383c01137acc8fd3326e82f",
+          "sha256": "184796c16407b114b10ef9010b8bb2173e7b9365c133368e2261e9dae27d68bf",
+          "sha1": "79a6e5ec88f0b4c083d92a80451d332252920ee0",
+          "md5": "fec3234763710d42d697eacf32cf5ffb"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sound-adapter-1.3.2-SNAPSHOT-sources.jar",
+          "url": "sound-adapter-1.3.2-SNAPSHOT-sources.jar",
+          "size": 1509,
+          "sha512": "215d8c89d095f4bf5da7cfd86a3e0a43a21ee1eeac28f81905c8ef03e5ab94f5aaa21b655f2d91bfe3da2e0989206d36a43127d7fd06c24a47cf09c9d4de5af6",
+          "sha256": "33f0d6cb0bb16910b57ef390f740844a429e986994c74d6a1dc192c1db98da41",
+          "sha1": "a1b05723b3ef8f8c4522ba24d89728485471f09d",
+          "md5": "c0dc195a6d6c243d73cf26236d299125"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sound-adapter-1.3.2-SNAPSHOT-javadoc.jar",
+          "url": "sound-adapter-1.3.2-SNAPSHOT-javadoc.jar",
+          "size": 20305,
+          "sha512": "2f37ed0b9f5951283a85b6f6b257df7926a4d4106849b1acba239b86bd191992440da589114844e5ac88300907bcd7dd7f422595cf05e88bc2a81c8f2cbe17e6",
+          "sha256": "8a9b0699f70cbe2f4902f0fe1edabafb16341874a04eb8625f16f6d3ac1a32a7",
+          "sha1": "165407fac169531b7c091bed453ea82d06787d2e",
+          "md5": "af208a6e838f8b0f1115ff16e44cb784"
+        }
+      ]
+    }
+  ]
+}
