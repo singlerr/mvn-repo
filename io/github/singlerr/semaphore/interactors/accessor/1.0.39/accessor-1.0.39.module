@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.singlerr.semaphore.interactors",
+    "module": "accessor",
+    "version": "1.0.39",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "accessor-1.0.39.jar",
+          "url": "accessor-1.0.39.jar",
+          "size": 8821,
+          "sha512": "619761e07d8e6f56653c7c17a3ad47296af3ee6489593c0a561d5ad4d48fb2868747e572486e205172e531005a87271849e8ff9b173aee999504af09cd36136b",
+          "sha256": "048df42d642bc783ad80759883ad12b6e8ad2c5690461026f615447880e3e8ba",
+          "sha1": "4ff36300a682d79ebb60108efd20d47da52ce21c",
+          "md5": "0d5fb96b8da1f1023679b4bd49c39c97"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "accessor-1.0.39.jar",
+          "url": "accessor-1.0.39.jar",
+          "size": 8821,
+          "sha512": "619761e07d8e6f56653c7c17a3ad47296af3ee6489593c0a561d5ad4d48fb2868747e572486e205172e531005a87271849e8ff9b173aee999504af09cd36136b",
+          "sha256": "048df42d642bc783ad80759883ad12b6e8ad2c5690461026f615447880e3e8ba",
+          "sha1": "4ff36300a682d79ebb60108efd20d47da52ce21c",
+          "md5": "0d5fb96b8da1f1023679b4bd49c39c97"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "accessor-1.0.39-sources.jar",
+          "url": "accessor-1.0.39-sources.jar",
+          "size": 4225,
+          "sha512": "54eb7d9e74a864e84fed32a53a968c4619ea2815054cdc12eb3936e64b05df56d4322d340c9273f1775bf7ff2fd081b1441bdfb2edbb37e149c50501e1c72c1b",
+          "sha256": "2e8f72d0bf6ff36d76d3fad98da111872cca215eb8e62a836b1a2a1f13f4465a",
+          "sha1": "e764dbe4abae27ca2a9c9cbeb4cb8bae32e18787",
+          "md5": "d3b0aad82aa756898206455598c3f201"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "accessor-1.0.39-javadoc.jar",
+          "url": "accessor-1.0.39-javadoc.jar",
+          "size": 47549,
+          "sha512": "b5e7c9902ff6729856388eed71d0c20927d7dcdca12847b24b542dae1a4e33a029eac39b2397b0409598643acb00926687b444f984a4f1257d4eefbb62361121",
+          "sha256": "7207559a40dc80a1e1fe9131b9519dfaabc956a1cb86b13ba2e6f6504fc150b2",
+          "sha1": "69d9e8331a8e7f7e27f0b58c6e56877b9d3a3594",
+          "md5": "5bd0ea765cc302affae7aa41a1654a43"
+        }
+      ]
+    }
+  ]
+}
