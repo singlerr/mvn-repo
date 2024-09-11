@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.singlerr.semaphore.presenters",
+    "module": "caller",
+    "version": "1.0.38",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "caller-1.0.38.jar",
+          "url": "caller-1.0.38.jar",
+          "size": 261,
+          "sha512": "82956960af785d896ab4871b39986091ca29345a3ba1900fe4f68527ba3ff3a8e183728b989a537b6a5ef76193a12506820a8a73dcbb88814ff43c96cdce7f99",
+          "sha256": "d8b7daffa0627b5e07656c9819ac38196a861fe38edcebaf6f219d24bc0bee86",
+          "sha1": "e92c829d870d908bcde21ec0f26238fdbd230028",
+          "md5": "0b9f98b9cbe00d44a74c1096e959ff51"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "caller-1.0.38.jar",
+          "url": "caller-1.0.38.jar",
+          "size": 261,
+          "sha512": "82956960af785d896ab4871b39986091ca29345a3ba1900fe4f68527ba3ff3a8e183728b989a537b6a5ef76193a12506820a8a73dcbb88814ff43c96cdce7f99",
+          "sha256": "d8b7daffa0627b5e07656c9819ac38196a861fe38edcebaf6f219d24bc0bee86",
+          "sha1": "e92c829d870d908bcde21ec0f26238fdbd230028",
+          "md5": "0b9f98b9cbe00d44a74c1096e959ff51"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "caller-1.0.38-sources.jar",
+          "url": "caller-1.0.38-sources.jar",
+          "size": 261,
+          "sha512": "82956960af785d896ab4871b39986091ca29345a3ba1900fe4f68527ba3ff3a8e183728b989a537b6a5ef76193a12506820a8a73dcbb88814ff43c96cdce7f99",
+          "sha256": "d8b7daffa0627b5e07656c9819ac38196a861fe38edcebaf6f219d24bc0bee86",
+          "sha1": "e92c829d870d908bcde21ec0f26238fdbd230028",
+          "md5": "0b9f98b9cbe00d44a74c1096e959ff51"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "caller-1.0.38-javadoc.jar",
+          "url": "caller-1.0.38-javadoc.jar",
+          "size": 261,
+          "sha512": "82956960af785d896ab4871b39986091ca29345a3ba1900fe4f68527ba3ff3a8e183728b989a537b6a5ef76193a12506820a8a73dcbb88814ff43c96cdce7f99",
+          "sha256": "d8b7daffa0627b5e07656c9819ac38196a861fe38edcebaf6f219d24bc0bee86",
+          "sha1": "e92c829d870d908bcde21ec0f26238fdbd230028",
+          "md5": "0b9f98b9cbe00d44a74c1096e959ff51"
+        }
+      ]
+    }
+  ]
+}
