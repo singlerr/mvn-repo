@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.singlerr.semaphore.interactors",
+    "module": "callee",
+    "version": "1.0.41",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "callee-1.0.41.jar",
+          "url": "callee-1.0.41.jar",
+          "size": 12737,
+          "sha512": "ff42a43d8374984b6602ab336217d8c9a2940f03349eadd71819c020950b9ac6d526da771ccff0d5e0c074a27c54e45cc870d7aa515adca682fb279e3478c90b",
+          "sha256": "d9ec6407a2d6d804eaee0c84efc26b5fa58be3cb32759a4c78bce4626cd633f4",
+          "sha1": "afe1f557d30367d959683d38793d1339c6d3d79b",
+          "md5": "46e342dad3933faf61ee2c0977f9f09c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.github.singlerr.semaphore.interactors",
+          "module": "accessor",
+          "version": {
+            "requires": "1.0.41"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "callee-1.0.41.jar",
+          "url": "callee-1.0.41.jar",
+          "size": 12737,
+          "sha512": "ff42a43d8374984b6602ab336217d8c9a2940f03349eadd71819c020950b9ac6d526da771ccff0d5e0c074a27c54e45cc870d7aa515adca682fb279e3478c90b",
+          "sha256": "d9ec6407a2d6d804eaee0c84efc26b5fa58be3cb32759a4c78bce4626cd633f4",
+          "sha1": "afe1f557d30367d959683d38793d1339c6d3d79b",
+          "md5": "46e342dad3933faf61ee2c0977f9f09c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "callee-1.0.41-sources.jar",
+          "url": "callee-1.0.41-sources.jar",
+          "size": 7828,
+          "sha512": "beca0ba5b2314359f7f14fddf938543761d30051d7c0d962946046160fe3591ac111619fbf163ede3a7e9420ffab4c551ac0ac2f7ae0e30ee07e9f36cfbd8504",
+          "sha256": "bb762fdb91b087c193ca0039d48f68d721aef68586b25af77877cdbadb477c89",
+          "sha1": "b9bbf0e663d0e8944ed64d82a80202d059c5297e",
+          "md5": "a1e14d65ae35145c4ea09bb3e002df26"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "callee-1.0.41-javadoc.jar",
+          "url": "callee-1.0.41-javadoc.jar",
+          "size": 84787,
+          "sha512": "9e34ab506bfa08483228ac582d3727ea5d092d9bf8ba9799eacf1aaee42f5645809d0042c7af26de61c2d4c34a991acfaf416cc69bc3ffe8255c1aad362916a7",
+          "sha256": "70f09d6a275910eb894a0c8768fb760c5949a16b5fd4f5d3626fc2f8c66e17ab",
+          "sha1": "d2c8f42ab97baa5f70ad6f5824b65ccd7a6cb37a",
+          "md5": "c25e58e3f8fc5845dd8bc47d12cee21c"
+        }
+      ]
+    }
+  ]
+}
