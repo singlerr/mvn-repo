@@ -3,10 +3,11 @@
   <groupId>net.indiespot.media</groupId>
   <artifactId>medialib</artifactId>
   <versioning>
-    <latest>1.0.0-SNAPSHOT</latest>
+    <latest>1.0.1-SNAPSHOT</latest>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
+      <version>1.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20240901215244</lastUpdated>
+    <lastUpdated>20240924070910</lastUpdated>
   </versioning>
 </metadata>
