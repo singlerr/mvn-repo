@@ -3,38 +3,38 @@
   <groupId>io.github.singlerr.vrmcore</groupId>
   <artifactId>vrm-core</artifactId>
   <versioning>
-    <lastUpdated>20240927132452</lastUpdated>
+    <lastUpdated>20240928015454</lastUpdated>
     <snapshot>
-      <timestamp>20240927.132452</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20240928.015454</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.1-20240927.132452-2</value>
-        <updated>20240927132452</updated>
+        <value>0.1.1-20240928.015454-3</value>
+        <updated>20240928015454</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.1.1-20240927.132452-2</value>
-        <updated>20240927132452</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>module</extension>
-        <value>0.1.1-20240927.132452-2</value>
-        <updated>20240927132452</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.1.1-20240927.132452-2</value>
-        <updated>20240927132452</updated>
+        <value>0.1.1-20240928.015454-3</value>
+        <updated>20240928015454</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.1-20240927.132452-2</value>
-        <updated>20240927132452</updated>
+        <value>0.1.1-20240928.015454-3</value>
+        <updated>20240928015454</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.1.1-20240928.015454-3</value>
+        <updated>20240928015454</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.1.1-20240928.015454-3</value>
+        <updated>20240928015454</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
