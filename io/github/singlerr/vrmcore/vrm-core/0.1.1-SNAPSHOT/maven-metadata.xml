@@ -3,38 +3,38 @@
   <groupId>io.github.singlerr.vrmcore</groupId>
   <artifactId>vrm-core</artifactId>
   <versioning>
-    <lastUpdated>20240928023008</lastUpdated>
+    <lastUpdated>20240928023918</lastUpdated>
     <snapshot>
-      <timestamp>20240928.023008</timestamp>
-      <buildNumber>4</buildNumber>
+      <timestamp>20240928.023918</timestamp>
+      <buildNumber>5</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.1-20240928.023008-4</value>
-        <updated>20240928023008</updated>
+        <value>0.1.1-20240928.023918-5</value>
+        <updated>20240928023918</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.1.1-20240928.023008-4</value>
-        <updated>20240928023008</updated>
+        <value>0.1.1-20240928.023918-5</value>
+        <updated>20240928023918</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>0.1.1-20240928.023008-4</value>
-        <updated>20240928023008</updated>
+        <value>0.1.1-20240928.023918-5</value>
+        <updated>20240928023918</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.1-20240928.023008-4</value>
-        <updated>20240928023008</updated>
+        <value>0.1.1-20240928.023918-5</value>
+        <updated>20240928023918</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.1-20240928.023008-4</value>
-        <updated>20240928023008</updated>
+        <value>0.1.1-20240928.023918-5</value>
+        <updated>20240928023918</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
