@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.singlerr.vrmcore",
+    "module": "vrm-core",
+    "version": "0.1.2-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "vrm-core-0.1.2-SNAPSHOT.jar",
+          "url": "vrm-core-0.1.2-SNAPSHOT.jar",
+          "size": 24787,
+          "sha512": "5fb25a811b03b4f9c3b5a2201dd79d4cfbaa2a460d40cd7bf0ae22980929faaf6f0e592d50ca7aeb865fc3977739cee4136663d461b4a3d482ca49f8e1ea22c7",
+          "sha256": "0062fb753b67f191b12221dfd2f79695f3df0d5c1fce499f5fdb77c2f3fe224d",
+          "sha1": "830e3bc08f7cb8147e0916b0807d8e4dddbea5f3",
+          "md5": "fcb5a19e3302091fbf53d8b5d6cb556f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "de.javagl",
+          "module": "jgltf-model",
+          "version": {
+            "requires": "2.0.4"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "25.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vrm-core-0.1.2-SNAPSHOT.jar",
+          "url": "vrm-core-0.1.2-SNAPSHOT.jar",
+          "size": 24787,
+          "sha512": "5fb25a811b03b4f9c3b5a2201dd79d4cfbaa2a460d40cd7bf0ae22980929faaf6f0e592d50ca7aeb865fc3977739cee4136663d461b4a3d482ca49f8e1ea22c7",
+          "sha256": "0062fb753b67f191b12221dfd2f79695f3df0d5c1fce499f5fdb77c2f3fe224d",
+          "sha1": "830e3bc08f7cb8147e0916b0807d8e4dddbea5f3",
+          "md5": "fcb5a19e3302091fbf53d8b5d6cb556f"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vrm-core-0.1.2-SNAPSHOT-sources.jar",
+          "url": "vrm-core-0.1.2-SNAPSHOT-sources.jar",
+          "size": 10530,
+          "sha512": "b11d13281ff184f0c78db539a985f63929765939f28ff04bed2dfc645fb4f1f568e6f0e93c36c8b92b67f3d0db68e7874c73cf42967b47613c72117d95df66f5",
+          "sha256": "336b0a1fef96026abdbe647332f4111ca09755614971725dcfaa5cca800e4bf7",
+          "sha1": "2324529d0fb084fd3fa532ce0631b6d35b81fc7f",
+          "md5": "8445ecaf4493514a4283cbee702824ee"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vrm-core-0.1.2-SNAPSHOT-javadoc.jar",
+          "url": "vrm-core-0.1.2-SNAPSHOT-javadoc.jar",
+          "size": 136802,
+          "sha512": "29d4aa0f8773db6d3a5dd0a19137ba63aca825353ebb5240ad4a4462d89303248e9b4225b52520024581372da4fe04ab3cb9295420a21a1390f685d1484c0f1f",
+          "sha256": "601c6f80f7fa28050c9897304460ddb224db2f0db6c075998ae84a0911719213",
+          "sha1": "acc591a47a650ff53a63f9b335585900b98a5b34",
+          "md5": "12b0abb2cd409d8a83e12e2fb80be16a"
+        }
+      ]
+    }
+  ]
+}
