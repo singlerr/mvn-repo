@@ -1,0 +1,180 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "mod.chiselsandbits",
+    "module": "chiselsandbits",
+    "version": "1.2.1-beta.6+1.20.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "fuzs.forgeconfigapiport",
+          "module": "forgeconfigapiport-fabric",
+          "version": {
+            "requires": "20.4.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "chiselsandbits-1.2.1-beta.6+1.20.4.jar",
+          "url": "chiselsandbits-1.2.1-beta.6+1.20.4.jar",
+          "size": 1095170,
+          "sha512": "1e3471bf45233b782a76ef91bce146f65f47f32c0e559b252fc4688d53f00e5ca051ace17e25d0bdf61364186f51064797ac17ca98c31e92e9a9fe09927d178b",
+          "sha256": "03e793724d1873f8a5e0c4ef4fe491ac53f7bd069d7becaaee88962beeb6206c",
+          "sha1": "788ee5986cbb6887e7f1eb4528fbf3cd230e524d",
+          "md5": "be77598900547782f36663e768f23efd"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "javax.annotation",
+          "module": "javax.annotation-api",
+          "version": {
+            "requires": "1.3.2"
+          }
+        },
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "fuzs.forgeconfigapiport",
+          "module": "forgeconfigapiport-fabric",
+          "version": {
+            "requires": "20.4.2"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.15.11"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.97.1+1.20.4"
+          }
+        },
+        {
+          "group": "com.jamieswhiteshirt",
+          "module": "reach-entity-attributes",
+          "version": {
+            "requires": "2.5.0"
+          }
+        },
+        {
+          "group": "com.communi-suggestu.saecularia-caudices",
+          "module": "saecularia-caudices-fabric",
+          "version": {
+            "requires": "1.0.39"
+          }
+        },
+        {
+          "group": "io.github.feltmc",
+          "module": "fabricated-forge-caps",
+          "version": {
+            "requires": "0.1-1.20.4"
+          }
+        },
+        {
+          "group": "maven.modrinth",
+          "module": "modernkeybinding",
+          "version": {
+            "requires": "1.20.4-1.3.0"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "chiselsandbits-1.2.1-beta.6+1.20.4.jar",
+          "url": "chiselsandbits-1.2.1-beta.6+1.20.4.jar",
+          "size": 1095170,
+          "sha512": "1e3471bf45233b782a76ef91bce146f65f47f32c0e559b252fc4688d53f00e5ca051ace17e25d0bdf61364186f51064797ac17ca98c31e92e9a9fe09927d178b",
+          "sha256": "03e793724d1873f8a5e0c4ef4fe491ac53f7bd069d7becaaee88962beeb6206c",
+          "sha1": "788ee5986cbb6887e7f1eb4528fbf3cd230e524d",
+          "md5": "be77598900547782f36663e768f23efd"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "chiselsandbits-1.2.1-beta.6+1.20.4-sources.jar",
+          "url": "chiselsandbits-1.2.1-beta.6+1.20.4-sources.jar",
+          "size": 523480,
+          "sha512": "e8fc1105e278118a7c321530891e2aedf50ea2690a4b5ef55d232cd6dcbe2a7933e87e9821332593f723e7b0142c91183e08a1b730654e351739f67f69539ce2",
+          "sha256": "9fedd8d6080dfd2f093b651c6db8c07525c7bfe77daba3f00cf5bb33faf8dd92",
+          "sha1": "20322e6bfb65419e0d3c49c99796762d763780c4",
+          "md5": "f1944decc120dc58aa02f568bb761224"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "chiselsandbits-1.2.1-beta.6+1.20.4-javadoc.jar",
+          "url": "chiselsandbits-1.2.1-beta.6+1.20.4-javadoc.jar",
+          "size": 1295084,
+          "sha512": "03c9bdcd7d0ad5fdf18f1136dfbe1f698bf20fef9cda006fe9c4382837d8e5cde01eef3de8337d912e7a60e47eb22bfdb79e7a3841c62d9cf3e6233a2f0c7f02",
+          "sha256": "8adbf940a500f6d51257e8a695d331640d09236baa39413b53785cb652eb27e3",
+          "sha1": "c00cf038c4af0620e0d6b579bdf75b5fd5d3ada8",
+          "md5": "01aa3373a4f45712ef20334e36e4f35f"
+        }
+      ]
+    }
+  ]
+}
