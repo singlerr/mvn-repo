@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.indiespot.media</groupId>
+  <artifactId>medialib-lwjgl3</artifactId>
+  <versioning>
+    <latest>1.0.1-SNAPSHOT</latest>
+    <versions>
+      <version>1.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20241110132620</lastUpdated>
+  </versioning>
+</metadata>
