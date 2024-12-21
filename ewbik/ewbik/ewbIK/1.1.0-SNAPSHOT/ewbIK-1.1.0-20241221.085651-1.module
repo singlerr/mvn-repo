@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ewbik.ewbik",
+    "module": "ewbIK",
+    "version": "1.1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ewbIK-1.1.0-SNAPSHOT.jar",
+          "url": "ewbIK-1.1.0-SNAPSHOT.jar",
+          "size": 446823,
+          "sha512": "ecd9846737341e34ec91ef7979d08125aebdb96a62ff34c7286d0719c6022574c059ac1130f5fbd5a92dabfbeebc9c90add78c7072558d3e079579a93b1423d2",
+          "sha256": "6aa74a57f8c9a7be133fda8db379a885ae1a0659dc7c5b314e0e91a96cf5176d",
+          "sha1": "8f4e31b8c0a332ea3a510fed0021ab1a52040ea7",
+          "md5": "87bf9ad1a027e4e7d388fa1c0f19dd46"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.joml",
+          "module": "joml",
+          "version": {
+            "requires": "1.10.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ewbIK-1.1.0-SNAPSHOT.jar",
+          "url": "ewbIK-1.1.0-SNAPSHOT.jar",
+          "size": 446823,
+          "sha512": "ecd9846737341e34ec91ef7979d08125aebdb96a62ff34c7286d0719c6022574c059ac1130f5fbd5a92dabfbeebc9c90add78c7072558d3e079579a93b1423d2",
+          "sha256": "6aa74a57f8c9a7be133fda8db379a885ae1a0659dc7c5b314e0e91a96cf5176d",
+          "sha1": "8f4e31b8c0a332ea3a510fed0021ab1a52040ea7",
+          "md5": "87bf9ad1a027e4e7d388fa1c0f19dd46"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ewbIK-1.1.0-SNAPSHOT-sources.jar",
+          "url": "ewbIK-1.1.0-SNAPSHOT-sources.jar",
+          "size": 335050,
+          "sha512": "be9069b8dbcd0d71fb1a7f2f0ef4eeaa5d92ccfcda49681988b61c9c523d197fb7a8a6f365509ea30ba46760ca68c01c0cf2d6d0efc41576d2546fb4e872777b",
+          "sha256": "302e52eb1c186dffc3d1ea2a1629af1dbace03db31eb74d08d7281670e2e8aaf",
+          "sha1": "1a94a08dd3aa420241b316e1f17f49aaefd897f9",
+          "md5": "c2ab33ae9b1d23ed5b404af8626261a2"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ewbIK-1.1.0-SNAPSHOT-javadoc.jar",
+          "url": "ewbIK-1.1.0-SNAPSHOT-javadoc.jar",
+          "size": 791392,
+          "sha512": "efbb3b25024f28b79acde4466d279df5081cb3392b108350a0d4968a9c78f8014c8bf02f35fff456bf4f262d47b34bb056d3f27e58c30a41d0861ccfa12d4eef",
+          "sha256": "b755aad0ead6d976cd31ed2c7bc4298210994f5f7124b2ed8291c29a533e2246",
+          "sha1": "e7ea7256717dde44114b56de4a5894226f0781db",
+          "md5": "55fa20534029014805a7b2e385ac5830"
+        }
+      ]
+    }
+  ]
+}
