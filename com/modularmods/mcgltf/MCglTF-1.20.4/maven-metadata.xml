@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.modularmods.mcgltf</groupId>
+  <artifactId>MCglTF-1.20.4</artifactId>
+  <versioning>
+    <latest>1.20.4-Fabric-2.1.0.6</latest>
+    <release>1.20.4-Fabric-2.1.0.6</release>
+    <versions>
+      <version>1.20.4-Fabric-2.1.0.6</version>
+    </versions>
+    <lastUpdated>20241230064009</lastUpdated>
+  </versioning>
+</metadata>
