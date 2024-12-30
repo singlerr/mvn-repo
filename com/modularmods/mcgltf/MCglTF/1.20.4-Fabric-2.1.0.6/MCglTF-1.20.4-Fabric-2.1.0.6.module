@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "com.modularmods.mcgltf",
-    "module": "MCglTF-1.20.4",
+    "module": "MCglTF",
     "version": "1.20.4-Fabric-2.1.0.6",
     "attributes": {
       "org.gradle.status": "release"
@@ -25,8 +25,8 @@
       },
       "files": [
         {
-          "name": "MCglTF-1.20.4-1.20.4-Fabric-2.1.0.6.jar",
-          "url": "MCglTF-1.20.4-1.20.4-Fabric-2.1.0.6.jar",
+          "name": "MCglTF-1.20.4-Fabric-2.1.0.6.jar",
+          "url": "MCglTF-1.20.4-Fabric-2.1.0.6.jar",
           "size": 608886,
           "sha512": "439f72cb2cde87ac291d776f70a67882d19c049722e78541f62eb9c11396b732eb2b8bb27d96c851e8abc0c6341f22b2fc107cda0cd7bbea64124a848bf0ddee",
           "sha256": "242fb096b29e5235ead1c1512522c27aaa55dc3822b5a413612b9834c7274fce",
@@ -62,8 +62,8 @@
       ],
       "files": [
         {
-          "name": "MCglTF-1.20.4-1.20.4-Fabric-2.1.0.6.jar",
-          "url": "MCglTF-1.20.4-1.20.4-Fabric-2.1.0.6.jar",
+          "name": "MCglTF-1.20.4-Fabric-2.1.0.6.jar",
+          "url": "MCglTF-1.20.4-Fabric-2.1.0.6.jar",
           "size": 608886,
           "sha512": "439f72cb2cde87ac291d776f70a67882d19c049722e78541f62eb9c11396b732eb2b8bb27d96c851e8abc0c6341f22b2fc107cda0cd7bbea64124a848bf0ddee",
           "sha256": "242fb096b29e5235ead1c1512522c27aaa55dc3822b5a413612b9834c7274fce",
@@ -82,8 +82,8 @@
       },
       "files": [
         {
-          "name": "MCglTF-1.20.4-1.20.4-Fabric-2.1.0.6-sources.jar",
-          "url": "MCglTF-1.20.4-1.20.4-Fabric-2.1.0.6-sources.jar",
+          "name": "MCglTF-1.20.4-Fabric-2.1.0.6-sources.jar",
+          "url": "MCglTF-1.20.4-Fabric-2.1.0.6-sources.jar",
           "size": 505468,
           "sha512": "504e815b35249b764f71e5b30c3c95d9b8019ad4102518e5efe921f6f8c86bebef5d8b4682ed050dff82d4d8306b59cbcd23b4c4e070093948a64651e17094e7",
           "sha256": "4248a522dd637f6131b64025e13bca9987df9103054da80c110702e7eb0836d9",

@@ -8,7 +8,7 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.modularmods.mcgltf</groupId>
-  <artifactId>MCglTF-1.20.4</artifactId>
+  <artifactId>MCglTF</artifactId>
   <version>1.20.4-Fabric-2.1.0.6</version>
   <dependencies>
     <dependency>
