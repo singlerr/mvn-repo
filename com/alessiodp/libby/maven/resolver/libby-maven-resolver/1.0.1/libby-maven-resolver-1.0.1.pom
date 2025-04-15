@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- This module was also published with a richer model, Gradle metadata,  -->
+  <!-- which should be used instead. Do not delete the following line which  -->
+  <!-- is to indicate to Gradle or any Gradle module metadata file consumer  -->
+  <!-- that they should prefer consuming it instead. -->
+  <!-- do_not_remove: published-with-gradle-metadata -->
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.alessiodp.libby.maven.resolver</groupId>
+  <artifactId>libby-maven-resolver</artifactId>
+  <version>1.0.1</version>
+  <name>libby-maven-resolver</name>
+  <description>Utility to download transitive dependencies for Libby</description>
+  <url>https://github.com/AlessioDP/libby-maven-resolver</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/license/mit/</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>AlessioDP</id>
+      <email>me@alessiodp.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/AlessioDP/libby-maven-resolver.git</connection>
+    <developerConnection>scm:git:git@github.com:AlessioDP/libby-maven-resolver.git</developerConnection>
+    <url>https://github.com/AlessioDP/libby-maven-resolver</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.maven.resolver</groupId>
+      <artifactId>maven-resolver-impl</artifactId>
+      <version>1.6.3</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.maven.resolver</groupId>
+      <artifactId>maven-resolver-supplier</artifactId>
+      <version>1.9.18</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-nop</artifactId>
+      <version>1.7.36</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>

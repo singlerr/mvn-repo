@@ -1,0 +1,143 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.alessiodp.libby.maven.resolver",
+    "module": "libby-maven-resolver",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libby-maven-resolver-1.0.1.jar",
+          "url": "libby-maven-resolver-1.0.1.jar",
+          "size": 2486163,
+          "sha512": "795e0e5dc21be4168e5c9b55a00d999a43fab7f65923f2680fa46b10ff09345e6fc2cc9fe7011f28d688b540658e5e367c9ed4183cff1ce66cdafc870ad28e19",
+          "sha256": "82afafe5f893c9955354f8f8f3f9d9028676f19d1d43e59710e3f75ac62ec753",
+          "sha1": "7553adbd3d99cbde558c491fbe93fd60f65dae7b",
+          "md5": "a27e365a21de36a2ac41c86dd8b5a313"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.maven.resolver",
+          "module": "maven-resolver-impl",
+          "version": {
+            "requires": "1.6.3"
+          }
+        },
+        {
+          "group": "org.apache.maven.resolver",
+          "module": "maven-resolver-supplier",
+          "version": {
+            "requires": "1.9.18"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-nop",
+          "version": {
+            "requires": "1.7.36"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libby-maven-resolver-1.0.1.jar",
+          "url": "libby-maven-resolver-1.0.1.jar",
+          "size": 2486163,
+          "sha512": "795e0e5dc21be4168e5c9b55a00d999a43fab7f65923f2680fa46b10ff09345e6fc2cc9fe7011f28d688b540658e5e367c9ed4183cff1ce66cdafc870ad28e19",
+          "sha256": "82afafe5f893c9955354f8f8f3f9d9028676f19d1d43e59710e3f75ac62ec753",
+          "sha1": "7553adbd3d99cbde558c491fbe93fd60f65dae7b",
+          "md5": "a27e365a21de36a2ac41c86dd8b5a313"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libby-maven-resolver-1.0.1.jar",
+          "url": "libby-maven-resolver-1.0.1.jar",
+          "size": 2486163,
+          "sha512": "795e0e5dc21be4168e5c9b55a00d999a43fab7f65923f2680fa46b10ff09345e6fc2cc9fe7011f28d688b540658e5e367c9ed4183cff1ce66cdafc870ad28e19",
+          "sha256": "82afafe5f893c9955354f8f8f3f9d9028676f19d1d43e59710e3f75ac62ec753",
+          "sha1": "7553adbd3d99cbde558c491fbe93fd60f65dae7b",
+          "md5": "a27e365a21de36a2ac41c86dd8b5a313"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libby-maven-resolver-1.0.1-javadoc.jar",
+          "url": "libby-maven-resolver-1.0.1-javadoc.jar",
+          "size": 73492,
+          "sha512": "e0c51008fdedc9ba5a8a2d04b669a25a4f027169124b6e892559d0a8ddb2591699edc23e5b3d532798c9b20c1c8ddce0c1b85428847d334468d971dd5804cbb5",
+          "sha256": "550f0c12c6c449b92e3bdc9e1708eaa0806c8422984d50bffd23d5e5ca7ebc92",
+          "sha1": "6d0922dfba90de3b7778fbf75cc89fd5a2eb7658",
+          "md5": "49a16d56585ad848ee477c4b92e80e52"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libby-maven-resolver-1.0.1-sources.jar",
+          "url": "libby-maven-resolver-1.0.1-sources.jar",
+          "size": 2871,
+          "sha512": "41431e6dc430bef30052d210d1f2248278ec5ec953a7b2da1e11a7d2f1b0fbf3652b514b77446feb36f740c2fe2dbf2a350f5496b980e7ec92dd74cbedbb9787",
+          "sha256": "2c2a5b0535f54efbd1a5e640052ba5617a5a5fb70d462cc5e8e8ca4eb26413d2",
+          "sha1": "eb98a71526286a61256e29494465bc31da4d12c0",
+          "md5": "9523e81e615289a48958f51c7f5376ef"
+        }
+      ]
+    }
+  ]
+}
