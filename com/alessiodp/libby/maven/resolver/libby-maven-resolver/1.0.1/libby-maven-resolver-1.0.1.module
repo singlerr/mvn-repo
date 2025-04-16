@@ -27,11 +27,11 @@
         {
           "name": "libby-maven-resolver-1.0.1.jar",
           "url": "libby-maven-resolver-1.0.1.jar",
-          "size": 1263526,
-          "sha512": "a75ec42fa0c2ecd0b2debc704e4005bdadc8325947c4224bdd86488e8b5b8b2422eca052c727e1c776a967758bb879031f97f39f508e08ad5ec376a1b0421c08",
-          "sha256": "8cbe663dbd10d53152a66884aebbd73531b4eb9c0c451ec524b8748be3c34781",
-          "sha1": "8a548f958571b2585f396fca19463847bb186e4b",
-          "md5": "f7ec9a688b11878b28c850892e25f000"
+          "size": 2209486,
+          "sha512": "a264f583416b2da138ffdce096501d0e300414142560895d72ee4b9b355f95de96ae3801f85e0548c286a895412c8f72bcd4de756c45393bb2bf5a5e25b559eb",
+          "sha256": "6900fa963a816b0f9817a20ed7f9268edf90633785f989b6d2360283a2c2d75e",
+          "sha1": "3490af91d3478ec446d03a059eea181d388a5367",
+          "md5": "1cf8e1b82fe4d8c33ef3f6543ccd03d5"
         }
       ]
     },
@@ -45,6 +45,20 @@
         "org.gradle.usage": "java-runtime"
       },
       "dependencies": [
+        {
+          "group": "org.apache.maven.resolver",
+          "module": "maven-resolver-transport-http",
+          "version": {
+            "requires": "1.7.3"
+          }
+        },
+        {
+          "group": "org.apache.maven.resolver",
+          "module": "maven-resolver-connector-basic",
+          "version": {
+            "requires": "1.7.3"
+          }
+        },
         {
           "group": "org.apache.maven.resolver",
           "module": "maven-resolver-impl",
@@ -71,11 +85,11 @@
         {
           "name": "libby-maven-resolver-1.0.1.jar",
           "url": "libby-maven-resolver-1.0.1.jar",
-          "size": 1263526,
-          "sha512": "a75ec42fa0c2ecd0b2debc704e4005bdadc8325947c4224bdd86488e8b5b8b2422eca052c727e1c776a967758bb879031f97f39f508e08ad5ec376a1b0421c08",
-          "sha256": "8cbe663dbd10d53152a66884aebbd73531b4eb9c0c451ec524b8748be3c34781",
-          "sha1": "8a548f958571b2585f396fca19463847bb186e4b",
-          "md5": "f7ec9a688b11878b28c850892e25f000"
+          "size": 2209486,
+          "sha512": "a264f583416b2da138ffdce096501d0e300414142560895d72ee4b9b355f95de96ae3801f85e0548c286a895412c8f72bcd4de756c45393bb2bf5a5e25b559eb",
+          "sha256": "6900fa963a816b0f9817a20ed7f9268edf90633785f989b6d2360283a2c2d75e",
+          "sha1": "3490af91d3478ec446d03a059eea181d388a5367",
+          "md5": "1cf8e1b82fe4d8c33ef3f6543ccd03d5"
         }
       ]
     },
@@ -91,11 +105,11 @@
         {
           "name": "libby-maven-resolver-1.0.1.jar",
           "url": "libby-maven-resolver-1.0.1.jar",
-          "size": 1263526,
-          "sha512": "a75ec42fa0c2ecd0b2debc704e4005bdadc8325947c4224bdd86488e8b5b8b2422eca052c727e1c776a967758bb879031f97f39f508e08ad5ec376a1b0421c08",
-          "sha256": "8cbe663dbd10d53152a66884aebbd73531b4eb9c0c451ec524b8748be3c34781",
-          "sha1": "8a548f958571b2585f396fca19463847bb186e4b",
-          "md5": "f7ec9a688b11878b28c850892e25f000"
+          "size": 2209486,
+          "sha512": "a264f583416b2da138ffdce096501d0e300414142560895d72ee4b9b355f95de96ae3801f85e0548c286a895412c8f72bcd4de756c45393bb2bf5a5e25b559eb",
+          "sha256": "6900fa963a816b0f9817a20ed7f9268edf90633785f989b6d2360283a2c2d75e",
+          "sha1": "3490af91d3478ec446d03a059eea181d388a5367",
+          "md5": "1cf8e1b82fe4d8c33ef3f6543ccd03d5"
         }
       ]
     },
@@ -131,11 +145,11 @@
         {
           "name": "libby-maven-resolver-1.0.1-sources.jar",
           "url": "libby-maven-resolver-1.0.1-sources.jar",
-          "size": 2908,
-          "sha512": "83ee0bf32fa9ade3ece0ee34a847017217f79781c22035ced12b186ce246a1b41acd36b5bfa3828f420a5e0cf4868b006dd89d4824561cacdb7b846edfe77e75",
-          "sha256": "6280b546a9c5dbf2c51f484356f5325177040b052c48b2d330a8214b9593e831",
-          "sha1": "84ef86b8bf7afa9f5ef4c74f0443f2bc7a6d02f2",
-          "md5": "e3109a2556b75c053be7f58dd5d0d189"
+          "size": 3014,
+          "sha512": "0118cbdeec382232361fb67ffabeb8afdabe90f2760f7b44cc1808e1536e4e72e8b77036e7aa32b0f3cc5a652bbaee07b81c1384394482fee8309709f3af229d",
+          "sha256": "8b3875d3fbe68c1d9499cb350742d02d47369a10d8140c46b7a8bfa281cd884c",
+          "sha1": "d3969e171521b345cbc9395f3006259c1a4ea9c9",
+          "md5": "6f22fe535ee612857baa9dcb7a8c6c0e"
         }
       ]
     }
