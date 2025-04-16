@@ -27,11 +27,11 @@
         {
           "name": "libby-maven-resolver-1.0.1.jar",
           "url": "libby-maven-resolver-1.0.1.jar",
-          "size": 2486163,
-          "sha512": "795e0e5dc21be4168e5c9b55a00d999a43fab7f65923f2680fa46b10ff09345e6fc2cc9fe7011f28d688b540658e5e367c9ed4183cff1ce66cdafc870ad28e19",
-          "sha256": "82afafe5f893c9955354f8f8f3f9d9028676f19d1d43e59710e3f75ac62ec753",
-          "sha1": "7553adbd3d99cbde558c491fbe93fd60f65dae7b",
-          "md5": "a27e365a21de36a2ac41c86dd8b5a313"
+          "size": 1263526,
+          "sha512": "a75ec42fa0c2ecd0b2debc704e4005bdadc8325947c4224bdd86488e8b5b8b2422eca052c727e1c776a967758bb879031f97f39f508e08ad5ec376a1b0421c08",
+          "sha256": "8cbe663dbd10d53152a66884aebbd73531b4eb9c0c451ec524b8748be3c34781",
+          "sha1": "8a548f958571b2585f396fca19463847bb186e4b",
+          "md5": "f7ec9a688b11878b28c850892e25f000"
         }
       ]
     },
@@ -53,10 +53,10 @@
           }
         },
         {
-          "group": "org.apache.maven.resolver",
-          "module": "maven-resolver-supplier",
+          "group": "org.apache.maven",
+          "module": "maven-resolver-provider",
           "version": {
-            "requires": "1.9.18"
+            "requires": "3.8.5"
           }
         },
         {
@@ -71,11 +71,11 @@
         {
           "name": "libby-maven-resolver-1.0.1.jar",
           "url": "libby-maven-resolver-1.0.1.jar",
-          "size": 2486163,
-          "sha512": "795e0e5dc21be4168e5c9b55a00d999a43fab7f65923f2680fa46b10ff09345e6fc2cc9fe7011f28d688b540658e5e367c9ed4183cff1ce66cdafc870ad28e19",
-          "sha256": "82afafe5f893c9955354f8f8f3f9d9028676f19d1d43e59710e3f75ac62ec753",
-          "sha1": "7553adbd3d99cbde558c491fbe93fd60f65dae7b",
-          "md5": "a27e365a21de36a2ac41c86dd8b5a313"
+          "size": 1263526,
+          "sha512": "a75ec42fa0c2ecd0b2debc704e4005bdadc8325947c4224bdd86488e8b5b8b2422eca052c727e1c776a967758bb879031f97f39f508e08ad5ec376a1b0421c08",
+          "sha256": "8cbe663dbd10d53152a66884aebbd73531b4eb9c0c451ec524b8748be3c34781",
+          "sha1": "8a548f958571b2585f396fca19463847bb186e4b",
+          "md5": "f7ec9a688b11878b28c850892e25f000"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "libby-maven-resolver-1.0.1.jar",
           "url": "libby-maven-resolver-1.0.1.jar",
-          "size": 2486163,
-          "sha512": "795e0e5dc21be4168e5c9b55a00d999a43fab7f65923f2680fa46b10ff09345e6fc2cc9fe7011f28d688b540658e5e367c9ed4183cff1ce66cdafc870ad28e19",
-          "sha256": "82afafe5f893c9955354f8f8f3f9d9028676f19d1d43e59710e3f75ac62ec753",
-          "sha1": "7553adbd3d99cbde558c491fbe93fd60f65dae7b",
-          "md5": "a27e365a21de36a2ac41c86dd8b5a313"
+          "size": 1263526,
+          "sha512": "a75ec42fa0c2ecd0b2debc704e4005bdadc8325947c4224bdd86488e8b5b8b2422eca052c727e1c776a967758bb879031f97f39f508e08ad5ec376a1b0421c08",
+          "sha256": "8cbe663dbd10d53152a66884aebbd73531b4eb9c0c451ec524b8748be3c34781",
+          "sha1": "8a548f958571b2585f396fca19463847bb186e4b",
+          "md5": "f7ec9a688b11878b28c850892e25f000"
         }
       ]
     },
@@ -131,11 +131,11 @@
         {
           "name": "libby-maven-resolver-1.0.1-sources.jar",
           "url": "libby-maven-resolver-1.0.1-sources.jar",
-          "size": 2871,
-          "sha512": "41431e6dc430bef30052d210d1f2248278ec5ec953a7b2da1e11a7d2f1b0fbf3652b514b77446feb36f740c2fe2dbf2a350f5496b980e7ec92dd74cbedbb9787",
-          "sha256": "2c2a5b0535f54efbd1a5e640052ba5617a5a5fb70d462cc5e8e8ca4eb26413d2",
-          "sha1": "eb98a71526286a61256e29494465bc31da4d12c0",
-          "md5": "9523e81e615289a48958f51c7f5376ef"
+          "size": 2908,
+          "sha512": "83ee0bf32fa9ade3ece0ee34a847017217f79781c22035ced12b186ce246a1b41acd36b5bfa3828f420a5e0cf4868b006dd89d4824561cacdb7b846edfe77e75",
+          "sha256": "6280b546a9c5dbf2c51f484356f5325177040b052c48b2d330a8214b9593e831",
+          "sha1": "84ef86b8bf7afa9f5ef4c74f0443f2bc7a6d02f2",
+          "md5": "e3109a2556b75c053be7f58dd5d0d189"
         }
       ]
     }

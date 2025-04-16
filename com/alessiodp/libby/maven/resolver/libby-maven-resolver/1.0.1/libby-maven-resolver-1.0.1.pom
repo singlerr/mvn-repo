@@ -38,9 +38,9 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>org.apache.maven.resolver</groupId>
-      <artifactId>maven-resolver-supplier</artifactId>
-      <version>1.9.18</version>
+      <groupId>org.apache.maven</groupId>
+      <artifactId>maven-resolver-provider</artifactId>
+      <version>3.8.5</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
