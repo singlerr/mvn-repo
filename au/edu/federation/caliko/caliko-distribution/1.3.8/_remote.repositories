@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 05 16:00:47 KST 2024
+caliko-distribution-1.3.8-dist.zip>=
+caliko-distribution-1.3.8-javadoc.jar>=
+caliko-distribution-1.3.8-sources.zip>=
+caliko-distribution-1.3.8.jar>=
+caliko-distribution-1.3.8.pom>=

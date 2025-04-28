@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 05 16:00:34 KST 2024
+caliko-demo-1.3.8-jar-with-dependencies.jar>=
+caliko-demo-1.3.8-sources.jar>=
+caliko-demo-1.3.8.jar>=
+caliko-demo-1.3.8.pom>=
