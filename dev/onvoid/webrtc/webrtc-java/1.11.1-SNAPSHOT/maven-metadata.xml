@@ -3,39 +3,39 @@
   <groupId>dev.onvoid.webrtc</groupId>
   <artifactId>webrtc-java</artifactId>
   <versioning>
-    <lastUpdated>20250524062548</lastUpdated>
+    <lastUpdated>20250524075559</lastUpdated>
     <snapshot>
-      <timestamp>20250524.062548</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20250524.075559</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.11.1-20250524.062548-2</value>
-        <updated>20250524062548</updated>
+        <value>1.11.1-20250524.075559-4</value>
+        <updated>20250524075559</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.11.1-20250524.062548-2</value>
-        <updated>20250524062548</updated>
+        <value>1.11.1-20250524.075559-4</value>
+        <updated>20250524075559</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.11.1-20250524.062548-2</value>
-        <updated>20250524062548</updated>
+        <value>1.11.1-20250524.075559-4</value>
+        <updated>20250524075559</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.11.1-20250524.062548-2</value>
-        <updated>20250524062548</updated>
+        <value>1.11.1-20250524.075559-4</value>
+        <updated>20250524075559</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>windows-x86_64</classifier>
         <extension>jar</extension>
-        <value>1.11.1-20250524.062548-2</value>
-        <updated>20250524062548</updated>
+        <value>1.11.1-20250524.075559-4</value>
+        <updated>20250524075559</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
