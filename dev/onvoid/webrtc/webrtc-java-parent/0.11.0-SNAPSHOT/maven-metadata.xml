@@ -3,16 +3,16 @@
   <groupId>dev.onvoid.webrtc</groupId>
   <artifactId>webrtc-java-parent</artifactId>
   <versioning>
-    <lastUpdated>20250523091143</lastUpdated>
+    <lastUpdated>20250524060232</lastUpdated>
     <snapshot>
-      <timestamp>20250523.091143</timestamp>
-      <buildNumber>6</buildNumber>
+      <timestamp>20250524.060232</timestamp>
+      <buildNumber>8</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.11.0-20250523.091143-6</value>
-        <updated>20250523091143</updated>
+        <value>0.11.0-20250524.060232-8</value>
+        <updated>20250524060232</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
