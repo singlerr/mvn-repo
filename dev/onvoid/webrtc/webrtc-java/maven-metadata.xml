@@ -4,9 +4,8 @@
   <artifactId>webrtc-java</artifactId>
   <versioning>
     <versions>
-      <version>0.11.0-SNAPSHOT</version>
       <version>1.11.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250524061603</lastUpdated>
+    <lastUpdated>20250524062548</lastUpdated>
   </versioning>
 </metadata>
