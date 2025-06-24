@@ -3,38 +3,38 @@
   <groupId>io.libp2p</groupId>
   <artifactId>jvm-libp2p</artifactId>
   <versioning>
-    <lastUpdated>20250624064844</lastUpdated>
+    <lastUpdated>20250624065348</lastUpdated>
     <snapshot>
-      <timestamp>20250624.064844</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20250624.065348</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.2.2R-20250624.064844-1</value>
-        <updated>20250624064844</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.2.2R-20250624.064844-1</value>
-        <updated>20250624064844</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>module</extension>
-        <value>1.2.2R-20250624.064844-1</value>
-        <updated>20250624064844</updated>
+        <value>1.2.2R-20250624.065348-2</value>
+        <updated>20250624065348</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.2.2R-20250624.064844-1</value>
-        <updated>20250624064844</updated>
+        <value>1.2.2R-20250624.065348-2</value>
+        <updated>20250624065348</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.2.2R-20250624.065348-2</value>
+        <updated>20250624065348</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.2.2R-20250624.064844-1</value>
-        <updated>20250624064844</updated>
+        <value>1.2.2R-20250624.065348-2</value>
+        <updated>20250624065348</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.2.2R-20250624.065348-2</value>
+        <updated>20250624065348</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
