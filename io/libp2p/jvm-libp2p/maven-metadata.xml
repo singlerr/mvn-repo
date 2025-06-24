@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.libp2p</groupId>
+  <artifactId>jvm-libp2p</artifactId>
+  <versioning>
+    <latest>1.2.1R</latest>
+    <release>1.2.1R</release>
+    <versions>
+      <version>1.2.1R</version>
+    </versions>
+    <lastUpdated>20250624030716</lastUpdated>
+  </versioning>
+</metadata>
