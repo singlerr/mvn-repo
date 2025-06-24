@@ -60,10 +60,10 @@
           "name": "jvm-libp2p-1.2.1R.jar",
           "url": "jvm-libp2p-1.2.1R.jar",
           "size": 1726120,
-          "sha512": "24cb9f6824a570e6a78780a552718f0f02ad4c957eaf43a7e1c15738d1f5a9e82400b1a40bdde640e36de20c0060acec2b582632a8de83280a430c4667765af4",
-          "sha256": "e62747e892ca184734a08fc176cd6c7f05869f2cfc825bd0fd88a8d695ef1988",
-          "sha1": "aba73cddcbbdaba266db8560561e5f1456a7cb23",
-          "md5": "f0660eab7b80c81c35ec8b53c7f5f0ea"
+          "sha512": "5510ec03e95f9b5df7ffe631c52b48f633f922eb00a10e46e65d5f3f6e76f247f096eb30d1f8ac30ed6e7c01cccce06fa065c8a2510a8658bf8ab0d1a1570fb9",
+          "sha256": "d69f40fb132c462ffabfbafd6dc175bf4609389ab42a714390bc78d3a399a3aa",
+          "sha1": "65c2f3b4adf02ed0b4cd75cbf9104319a101c160",
+          "md5": "1186cf15ce8371fe71dd29e3f70985b0"
         }
       ]
     },
@@ -347,10 +347,10 @@
           "name": "jvm-libp2p-1.2.1R.jar",
           "url": "jvm-libp2p-1.2.1R.jar",
           "size": 1726120,
-          "sha512": "24cb9f6824a570e6a78780a552718f0f02ad4c957eaf43a7e1c15738d1f5a9e82400b1a40bdde640e36de20c0060acec2b582632a8de83280a430c4667765af4",
-          "sha256": "e62747e892ca184734a08fc176cd6c7f05869f2cfc825bd0fd88a8d695ef1988",
-          "sha1": "aba73cddcbbdaba266db8560561e5f1456a7cb23",
-          "md5": "f0660eab7b80c81c35ec8b53c7f5f0ea"
+          "sha512": "5510ec03e95f9b5df7ffe631c52b48f633f922eb00a10e46e65d5f3f6e76f247f096eb30d1f8ac30ed6e7c01cccce06fa065c8a2510a8658bf8ab0d1a1570fb9",
+          "sha256": "d69f40fb132c462ffabfbafd6dc175bf4609389ab42a714390bc78d3a399a3aa",
+          "sha1": "65c2f3b4adf02ed0b4cd75cbf9104319a101c160",
+          "md5": "1186cf15ce8371fe71dd29e3f70985b0"
         }
       ]
     }
