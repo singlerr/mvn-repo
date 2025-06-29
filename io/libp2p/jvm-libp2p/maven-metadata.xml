@@ -3,13 +3,14 @@
   <groupId>io.libp2p</groupId>
   <artifactId>jvm-libp2p</artifactId>
   <versioning>
-    <latest>1.2.2R-SNAPSHOT</latest>
+    <latest>1.2.2R.1-SNAPSHOT</latest>
     <release>1.2.1R</release>
     <versions>
       <version>1.2.1R</version>
       <version>1.2.1R-SNAPSHOT</version>
       <version>1.2.2R-SNAPSHOT</version>
+      <version>1.2.2R.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250624075712</lastUpdated>
+    <lastUpdated>20250629123433</lastUpdated>
   </versioning>
 </metadata>
