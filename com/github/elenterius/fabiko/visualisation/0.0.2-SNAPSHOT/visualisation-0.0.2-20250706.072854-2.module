@@ -1,0 +1,162 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.elenterius.fabiko",
+    "module": "visualisation",
+    "version": "0.0.2-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.elenterius.fabiko",
+          "module": "core",
+          "version": {
+            "requires": "0.0.2-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-bom",
+          "version": {
+            "requires": "3.3.5"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl"
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw"
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-opengl"
+        }
+      ],
+      "files": [
+        {
+          "name": "visualisation-0.0.2-SNAPSHOT.jar",
+          "url": "visualisation-0.0.2-SNAPSHOT.jar",
+          "size": 37898,
+          "sha512": "40d91c79fbe7b972390c0c21f1595f9bf52c4ae09d918d5c9621b88a7a841ebda3f4d236e5bf9a0550751e5bb8d521740ba8f59831e7b53c2d2fb79720bcf020",
+          "sha256": "99f79722a182405d44048ec1edbec7346d0883bfd393e4d15df72c169124593f",
+          "sha1": "1077899d447661923ac2db0dd3afd13dc0652db5",
+          "md5": "d9e96f6679eeed30381e54719bb26d70"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.elenterius.fabiko",
+          "module": "core",
+          "version": {
+            "requires": "0.0.2-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-bom",
+          "version": {
+            "requires": "3.3.5"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          }
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl"
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-glfw"
+        },
+        {
+          "group": "org.lwjgl",
+          "module": "lwjgl-opengl"
+        }
+      ],
+      "files": [
+        {
+          "name": "visualisation-0.0.2-SNAPSHOT.jar",
+          "url": "visualisation-0.0.2-SNAPSHOT.jar",
+          "size": 37898,
+          "sha512": "40d91c79fbe7b972390c0c21f1595f9bf52c4ae09d918d5c9621b88a7a841ebda3f4d236e5bf9a0550751e5bb8d521740ba8f59831e7b53c2d2fb79720bcf020",
+          "sha256": "99f79722a182405d44048ec1edbec7346d0883bfd393e4d15df72c169124593f",
+          "sha1": "1077899d447661923ac2db0dd3afd13dc0652db5",
+          "md5": "d9e96f6679eeed30381e54719bb26d70"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "visualisation-0.0.2-SNAPSHOT-sources.jar",
+          "url": "visualisation-0.0.2-SNAPSHOT-sources.jar",
+          "size": 42173,
+          "sha512": "892880fa75070b7c822844ec696bcc194369f7838ba130e15698481d42f6023b212321b25ee9e25e4bb7666cc14c8aa0931796a20f7cce62d5a9a7c3bc855a64",
+          "sha256": "0ee4a7b97826bba283e21c5ec35eba73d63ddae8b4cb6b2e8edfc111244133a3",
+          "sha1": "fc9b8a857b2711e67890f4b7cb49d6a07d555465",
+          "md5": "a14fdc7d02cdd0b4fb4bb50026e8515c"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "visualisation-0.0.2-SNAPSHOT-javadoc.jar",
+          "url": "visualisation-0.0.2-SNAPSHOT-javadoc.jar",
+          "size": 124312,
+          "sha512": "e8d74ff3c8c2d8fc991ba9c92092e5326c95b012b5f37e4bae6e3e509d7294ca962b2ed120b02656c26b4f42b9dd5f729af68a4006b7ab96947f4f427cc3bed1",
+          "sha256": "7ea99c724f9a520726640fcbd5db482db03280296a64d4b5c6d00fcb2517c030",
+          "sha1": "6b48ab8911c72d5f63cb987334c7674ade94c50b",
+          "md5": "76bc31fe0924f9402bbc2d5f0c0bd276"
+        }
+      ]
+    }
+  ]
+}

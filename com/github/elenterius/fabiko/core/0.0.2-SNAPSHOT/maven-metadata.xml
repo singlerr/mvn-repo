@@ -3,38 +3,38 @@
   <groupId>com.github.elenterius.fabiko</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <lastUpdated>20250428135800</lastUpdated>
+    <lastUpdated>20250706072854</lastUpdated>
     <snapshot>
-      <timestamp>20250428.135800</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20250706.072854</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.0.2-20250428.135800-1</value>
-        <updated>20250428135800</updated>
+        <value>0.0.2-20250706.072854-2</value>
+        <updated>20250706072854</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.2-20250706.072854-2</value>
+        <updated>20250706072854</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>0.0.2-20250428.135800-1</value>
-        <updated>20250428135800</updated>
+        <value>0.0.2-20250706.072854-2</value>
+        <updated>20250706072854</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.2-20250428.135800-1</value>
-        <updated>20250428135800</updated>
+        <value>0.0.2-20250706.072854-2</value>
+        <updated>20250706072854</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.2-20250428.135800-1</value>
-        <updated>20250428135800</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.0.2-20250428.135800-1</value>
-        <updated>20250428135800</updated>
+        <value>0.0.2-20250706.072854-2</value>
+        <updated>20250706072854</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
