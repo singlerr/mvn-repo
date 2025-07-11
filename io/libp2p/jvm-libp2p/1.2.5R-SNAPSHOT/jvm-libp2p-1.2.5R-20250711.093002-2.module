@@ -1,0 +1,358 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.libp2p",
+    "module": "jvm-libp2p",
+    "version": "1.2.5R-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "io.netty",
+          "module": "netty-common",
+          "version": {
+            "requires": "4.1.118.Final"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-buffer",
+          "version": {
+            "requires": "4.1.118.Final"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-transport",
+          "version": {
+            "requires": "4.1.118.Final"
+          }
+        },
+        {
+          "group": "com.google.protobuf",
+          "module": "protobuf-java",
+          "version": {
+            "requires": "3.25.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "jvm-libp2p-1.2.5R-SNAPSHOT.jar",
+          "url": "jvm-libp2p-1.2.5R-SNAPSHOT.jar",
+          "size": 1726363,
+          "sha512": "ec4b8dca6602b1257e67ac7e9d81afe859b191cfb2dba2dadae5eff8fa9f19cdf82f58b3ed63495b4e79dfb2445c13e982f9d7a2b140e4b62c71e8cd4e9cccb0",
+          "sha256": "96d8222a2c52f788107b9b54b8e21857fab3e6338e2c92812b269674d029b6df",
+          "sha1": "b28fe20a5eeec4ef6fbf3b6e4fafa0f9f9088f12",
+          "md5": "f98eaf5378fac6e43288b4085250dad9"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "33.3.1-jre"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.9"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-handler",
+          "version": {
+            "requires": "4.1.118.Final"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-codec-http",
+          "version": {
+            "requires": "4.1.118.Final"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-transport-classes-epoll",
+          "version": {
+            "requires": "4.1.118.Final"
+          }
+        },
+        {
+          "group": "io.netty.incubator",
+          "module": "netty-incubator-codec-native-quic",
+          "version": {
+            "requires": "0.0.71.Final"
+          }
+        },
+        {
+          "group": "io.netty.incubator",
+          "module": "netty-incubator-codec-native-quic",
+          "version": {
+            "requires": "0.0.71.Final"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "netty-incubator-codec-native-quic",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "linux-x86_64"
+            }
+          }
+        },
+        {
+          "group": "io.netty.incubator",
+          "module": "netty-incubator-codec-native-quic",
+          "version": {
+            "requires": "0.0.71.Final"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "netty-incubator-codec-native-quic",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "linux-aarch_64"
+            }
+          }
+        },
+        {
+          "group": "io.netty.incubator",
+          "module": "netty-incubator-codec-native-quic",
+          "version": {
+            "requires": "0.0.71.Final"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "netty-incubator-codec-native-quic",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "osx-x86_64"
+            }
+          }
+        },
+        {
+          "group": "io.netty.incubator",
+          "module": "netty-incubator-codec-native-quic",
+          "version": {
+            "requires": "0.0.71.Final"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "netty-incubator-codec-native-quic",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "osx-aarch_64"
+            }
+          }
+        },
+        {
+          "group": "io.netty.incubator",
+          "module": "netty-incubator-codec-native-quic",
+          "version": {
+            "requires": "0.0.71.Final"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "netty-incubator-codec-native-quic",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "windows-x86_64"
+            }
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-tcnative-boringssl-static",
+          "version": {
+            "requires": "2.0.70.Final"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "netty-tcnative-boringssl-static",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "linux-x86_64"
+            }
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-tcnative-boringssl-static",
+          "version": {
+            "requires": "2.0.70.Final"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "netty-tcnative-boringssl-static",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "linux-aarch_64"
+            }
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-tcnative-boringssl-static",
+          "version": {
+            "requires": "2.0.70.Final"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "netty-tcnative-boringssl-static",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "osx-x86_64"
+            }
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-tcnative-boringssl-static",
+          "version": {
+            "requires": "2.0.70.Final"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "netty-tcnative-boringssl-static",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "osx-aarch_64"
+            }
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-tcnative-boringssl-static",
+          "version": {
+            "requires": "2.0.70.Final"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "netty-tcnative-boringssl-static",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "windows-x86_64"
+            }
+          }
+        },
+        {
+          "group": "com.github.multiformats",
+          "module": "java-multibase",
+          "version": {
+            "requires": "v1.1.1"
+          }
+        },
+        {
+          "group": "tech.pegasys",
+          "module": "noise-java",
+          "version": {
+            "requires": "22.1.0"
+          }
+        },
+        {
+          "group": "org.bouncycastle",
+          "module": "bcprov-jdk18on",
+          "version": {
+            "requires": "1.78.1"
+          }
+        },
+        {
+          "group": "org.bouncycastle",
+          "module": "bcpkix-jdk18on",
+          "version": {
+            "requires": "1.78.1"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-common",
+          "version": {
+            "requires": "4.1.118.Final"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-buffer",
+          "version": {
+            "requires": "4.1.118.Final"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-transport",
+          "version": {
+            "requires": "4.1.118.Final"
+          }
+        },
+        {
+          "group": "com.google.protobuf",
+          "module": "protobuf-java",
+          "version": {
+            "requires": "3.25.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "jvm-libp2p-1.2.5R-SNAPSHOT.jar",
+          "url": "jvm-libp2p-1.2.5R-SNAPSHOT.jar",
+          "size": 1726363,
+          "sha512": "ec4b8dca6602b1257e67ac7e9d81afe859b191cfb2dba2dadae5eff8fa9f19cdf82f58b3ed63495b4e79dfb2445c13e982f9d7a2b140e4b62c71e8cd4e9cccb0",
+          "sha256": "96d8222a2c52f788107b9b54b8e21857fab3e6338e2c92812b269674d029b6df",
+          "sha1": "b28fe20a5eeec4ef6fbf3b6e4fafa0f9f9088f12",
+          "md5": "f98eaf5378fac6e43288b4085250dad9"
+        }
+      ]
+    }
+  ]
+}
