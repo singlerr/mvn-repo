@@ -3,7 +3,7 @@
   <groupId>io.libp2p</groupId>
   <artifactId>jvm-libp2p</artifactId>
   <versioning>
-    <latest>1.2.4R-SNAPSHOT</latest>
+    <latest>1.2.5R-SNAPSHOT</latest>
     <release>1.2.1R</release>
     <versions>
       <version>1.2.1R</version>
@@ -12,7 +12,8 @@
       <version>1.2.2R.1-SNAPSHOT</version>
       <version>1.2.3R-SNAPSHOT</version>
       <version>1.2.4R-SNAPSHOT</version>
+      <version>1.2.5R-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250711082503</lastUpdated>
+    <lastUpdated>20250711091523</lastUpdated>
   </versioning>
 </metadata>
