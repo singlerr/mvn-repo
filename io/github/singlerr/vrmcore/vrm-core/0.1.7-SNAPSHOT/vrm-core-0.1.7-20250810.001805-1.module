@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.singlerr.vrmcore",
+    "module": "vrm-core",
+    "version": "0.1.7-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "vrm-core-0.1.7-SNAPSHOT.jar",
+          "url": "vrm-core-0.1.7-SNAPSHOT.jar",
+          "size": 60429,
+          "sha512": "e131109e4d03c383fc4699f14fd27e9c6b8bd69e88521dd3af0d4d8b0bb9a945366273481d7f8eebefde86de5fb40f26ea3e4e8ae887489eb3b86af4fd03cb92",
+          "sha256": "b073e687a0fd47815ce6f6f10061372079147a97dbabf4079358754005f8a3be",
+          "sha1": "f00008695bed8f804be890737b0d22b04a44c15a",
+          "md5": "993d3dd79600f6faeccfa46dfbfad28a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "de.javagl",
+          "module": "jgltf-model",
+          "version": {
+            "requires": "2.0.4"
+          }
+        },
+        {
+          "group": "org.joml",
+          "module": "joml",
+          "version": {
+            "requires": "1.10.8"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "25.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vrm-core-0.1.7-SNAPSHOT.jar",
+          "url": "vrm-core-0.1.7-SNAPSHOT.jar",
+          "size": 60429,
+          "sha512": "e131109e4d03c383fc4699f14fd27e9c6b8bd69e88521dd3af0d4d8b0bb9a945366273481d7f8eebefde86de5fb40f26ea3e4e8ae887489eb3b86af4fd03cb92",
+          "sha256": "b073e687a0fd47815ce6f6f10061372079147a97dbabf4079358754005f8a3be",
+          "sha1": "f00008695bed8f804be890737b0d22b04a44c15a",
+          "md5": "993d3dd79600f6faeccfa46dfbfad28a"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vrm-core-0.1.7-SNAPSHOT-sources.jar",
+          "url": "vrm-core-0.1.7-SNAPSHOT-sources.jar",
+          "size": 24334,
+          "sha512": "3f5d34df299bcea6926652b92330d43509f0b382284492787203cc95373c030f2aeeb25ebcaff6988493932844c781479719197780c5a843c9912932ac9d6420",
+          "sha256": "2367d00cf5f80b2cc437894c966ddd50954c038b643efa91aa42dff24329e9c2",
+          "sha1": "8af4501fcdcb7b1c3385b25a35679b854a33129e",
+          "md5": "27b79205ffa0605ad04fc6ac57319fd8"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "vrm-core-0.1.7-SNAPSHOT-javadoc.jar",
+          "url": "vrm-core-0.1.7-SNAPSHOT-javadoc.jar",
+          "size": 191294,
+          "sha512": "c724771da26f62f2643b1346bbc0d2dc9d1d36a09141a262b07c7657959b8c811eb8412bcc07f6b0b9c972b70e8f62b782f1f4a97d15429283f799b67c5f999a",
+          "sha256": "1df76e922d79634c684ced17f937a320d60cd31e9794f9e5877d068f11f6e8ad",
+          "sha1": "10bd51d14c4522c49bc4567a01e872952f71a544",
+          "md5": "64f77eacb63753a0502c4aa9ded8bfec"
+        }
+      ]
+    }
+  ]
+}
