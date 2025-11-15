@@ -1,0 +1,103 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.modularmods.mcgltf",
+    "module": "MCglTF-1.20.4",
+    "version": "1.20.4-Fabric-2.2.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "MCglTF-1.20.4-1.20.4-Fabric-2.2.0.0.jar",
+          "url": "MCglTF-1.20.4-1.20.4-Fabric-2.2.0.0.jar",
+          "size": 608471,
+          "sha512": "3e9826eb6bd612b338af472d8f0414986a907a390623b2785f92838806fdc1b35d97fcfdf6331ddbf00d9225112d143da43d38eb861a58baf907ac90710ba6cc",
+          "sha256": "d43c81bd45b5099f62a470c7a1e0f18f2770212d43f7b4c89965c3eaccbfc509",
+          "sha1": "fe8e8cd9bfa435c04cffe65480a3ffe3a12a1e3e",
+          "md5": "ff3b11fe457ad24708746eb3f0435a09"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.16.3"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.97.2+1.20.4"
+          }
+        },
+        {
+          "group": "maven.modrinth",
+          "module": "iris",
+          "version": {
+            "requires": "1.7.2+1.20.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "MCglTF-1.20.4-1.20.4-Fabric-2.2.0.0.jar",
+          "url": "MCglTF-1.20.4-1.20.4-Fabric-2.2.0.0.jar",
+          "size": 608471,
+          "sha512": "3e9826eb6bd612b338af472d8f0414986a907a390623b2785f92838806fdc1b35d97fcfdf6331ddbf00d9225112d143da43d38eb861a58baf907ac90710ba6cc",
+          "sha256": "d43c81bd45b5099f62a470c7a1e0f18f2770212d43f7b4c89965c3eaccbfc509",
+          "sha1": "fe8e8cd9bfa435c04cffe65480a3ffe3a12a1e3e",
+          "md5": "ff3b11fe457ad24708746eb3f0435a09"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "MCglTF-1.20.4-1.20.4-Fabric-2.2.0.0-sources.jar",
+          "url": "MCglTF-1.20.4-1.20.4-Fabric-2.2.0.0-sources.jar",
+          "size": 500052,
+          "sha512": "17bd2ef447ec9ef9bfe9bc840dc94dca296f8db4fafe18a3b44170fc092ed3be32feb298e72ce9b5a3e7f2dd8e0a682542083ef3135d5f16327f67d99f44f3bb",
+          "sha256": "6a4ecd18ec78a706b68f40c01d0237df09520302692a702394f38800c5b006df",
+          "sha1": "56eef262b4d36c363fdee3247fd26337c57636ed",
+          "md5": "17fbbb000035d5803294357c64ab371f"
+        }
+      ]
+    }
+  ]
+}
