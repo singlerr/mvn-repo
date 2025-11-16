@@ -3,7 +3,7 @@
   "component": {
     "group": "com.modularmods.mcgltf",
     "module": "MCglTF",
-    "version": "1.20.4-Fabric-3.2.0.0",
+    "version": "1.20.4-Fabric-3.3.0.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "MCglTF-1.20.4-Fabric-3.2.0.0.jar",
-          "url": "MCglTF-1.20.4-Fabric-3.2.0.0.jar",
+          "name": "MCglTF-1.20.4-Fabric-3.3.0.0.jar",
+          "url": "MCglTF-1.20.4-Fabric-3.3.0.0.jar",
           "size": 608801,
-          "sha512": "5da4f445f2783b874eba37d7c5cbfe3058f0c58fead7b7fe0637831625443130fce754d5ca33fd59a8d01c0b59ad79602dd6a9c9b78eb91ebc0209345ecf8132",
-          "sha256": "ccfb701c7fd1245110e6c1e4663e205f58079c13d8114178500cbf65575998b5",
-          "sha1": "bf93a5bee371dface505043497389585ace78dfa",
-          "md5": "62c99d8d01da4840889b0716a7c0c114"
+          "sha512": "c8282e7e256fc4124af14ae56cec8896bcd8b036f9c443bcf1999c52a496aad3b893b934e5d9718b678e01530fceb7d6e88746cf9749122768a42a777492bf1d",
+          "sha256": "2efb90ca8983e7c128b9d7ac5bc19638dc2a15f256620d9c058bb7d782955a01",
+          "sha1": "cd7ca8128b4630c921cf052cf67d3512b95568ff",
+          "md5": "c477ea3a5c155423ae916695f21c1e68"
         }
       ]
     },
@@ -69,13 +69,13 @@
       ],
       "files": [
         {
-          "name": "MCglTF-1.20.4-Fabric-3.2.0.0.jar",
-          "url": "MCglTF-1.20.4-Fabric-3.2.0.0.jar",
+          "name": "MCglTF-1.20.4-Fabric-3.3.0.0.jar",
+          "url": "MCglTF-1.20.4-Fabric-3.3.0.0.jar",
           "size": 608801,
-          "sha512": "5da4f445f2783b874eba37d7c5cbfe3058f0c58fead7b7fe0637831625443130fce754d5ca33fd59a8d01c0b59ad79602dd6a9c9b78eb91ebc0209345ecf8132",
-          "sha256": "ccfb701c7fd1245110e6c1e4663e205f58079c13d8114178500cbf65575998b5",
-          "sha1": "bf93a5bee371dface505043497389585ace78dfa",
-          "md5": "62c99d8d01da4840889b0716a7c0c114"
+          "sha512": "c8282e7e256fc4124af14ae56cec8896bcd8b036f9c443bcf1999c52a496aad3b893b934e5d9718b678e01530fceb7d6e88746cf9749122768a42a777492bf1d",
+          "sha256": "2efb90ca8983e7c128b9d7ac5bc19638dc2a15f256620d9c058bb7d782955a01",
+          "sha1": "cd7ca8128b4630c921cf052cf67d3512b95568ff",
+          "md5": "c477ea3a5c155423ae916695f21c1e68"
         }
       ]
     },
@@ -89,13 +89,13 @@
       },
       "files": [
         {
-          "name": "MCglTF-1.20.4-Fabric-3.2.0.0-sources.jar",
-          "url": "MCglTF-1.20.4-Fabric-3.2.0.0-sources.jar",
+          "name": "MCglTF-1.20.4-Fabric-3.3.0.0-sources.jar",
+          "url": "MCglTF-1.20.4-Fabric-3.3.0.0-sources.jar",
           "size": 503100,
-          "sha512": "a98981e90cc2197c61a80a928df3fd5754e6b87d887c9da8b39bda9569baf8e4329f0f4171c4c126149e098845d301781a5ab984b4e89ae00faa8a3b3f4afc67",
-          "sha256": "7741532cb8e52362833d25550594dc3a1c550fd03a4272d2148d49b36942ee18",
-          "sha1": "639ca25f46dd1f99f8a7058d18b8d7cf152b08d1",
-          "md5": "b9005f3cf9575f24a4d5d5d79105a022"
+          "sha512": "f3c9cba0bd6d5480b0323f6c25334b503919cffc16c83b3b91bc4457314ceab1871210cd46d77c883c161a97e3fbe3a2f68878eb7d2c2da342e72ccb2dc73607",
+          "sha256": "fcc5ffbae7e9b33198afffb5f71333164606b96d0f2dc7aa1294b9b6c9c61c1d",
+          "sha1": "e4bf4d329bb25a0650b4945506fba298fb08ef17",
+          "md5": "f7fb0ebc4499679fd57a1fa36deb0bcc"
         }
       ]
     }
